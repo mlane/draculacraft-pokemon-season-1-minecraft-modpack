@@ -1,8 +1,8 @@
 import crafttweaker.item.IItemStack as IItemStack;
 import mods.jei.JEI.removeAndHide as rh;
 
-# prefab
-val removals = [
+# item removals
+val rhItems = [
 <prefab:block_andesite_stairs>,
 <prefab:block_boundary>,
 <prefab:block_diorite_stairs>,
@@ -18,8 +18,10 @@ val removals = [
 <prefab:item_logo>,
 <prefab:item_monster_masher>,
 <prefab:item_welcome_center>,
+<tp:bsc_sugar_cookie>,
+<tp:quick_sand>,
 ] as IItemStack[];
 
-for item in removals {
+for item in rhItems {
 	rh(item);
 }
