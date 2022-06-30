@@ -3,6 +3,16 @@ import mods.jei.JEI.removeAndHide as rh;
 
 # item removals
 val rhItems = [
+<disenchanter:disenchantmenttable:1>,
+<disenchanter:disenchantmenttable:2>,
+<disenchanter:disenchantmenttable:3>,
+<disenchanter:disenchantmenttable:4>,
+<disenchanter:disenchantmenttable:5>,
+<disenchanter:disenchantmenttable:6>,
+<disenchanter:disenchantmenttable:7>,
+<disenchanter:disenchantmenttable:8>,
+<disenchanter:disenchantmenttable:9>,
+<disenchanter:experience_jar>,
 <prefab:block_andesite_stairs>,
 <prefab:block_boundary>,
 <prefab:block_diorite_stairs>,
