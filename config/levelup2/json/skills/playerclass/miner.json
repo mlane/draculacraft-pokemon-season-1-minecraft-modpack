@@ -1,0 +1,16 @@
+{
+  "name": "levelup:miner",
+  "bonus": "levelup:mining_bonus",
+  "localized_name": "Miner",
+  "description": "You mine and you craft",
+  "skills": [
+    {
+      "name": "levelup:stonecutting",
+      "level": 2
+    },
+    {
+      "name": "levelup:prospecting",
+      "level": 1
+    }
+  ]
+}
