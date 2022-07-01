@@ -5,7 +5,7 @@ AFKHandler {
     # The time in seconds before the auto-battle handler picks a move automatically each turn.
     afkHandlerTurnSeconds=15
     # Have auto-battle take over if the player is AFK during a battle. Activates after the specified time period and gives specified time for each turn after that.
-    enableAFKHandler=false
+    enableAFKHandler=true
 }
 # Settings that allow you to alter battle mechanics and rates.
 Battle {
@@ -59,7 +59,7 @@ Battle {
         40
     ]
     # Multiplier for experience gained in Pokémon battles.
-    expModifier=1
+    expModifier=3
     # What will happen if a battle is force-ended without a proper conclusion. 0: A winner is determined based on the number of remaining Pokémon (with % HP as a tiebreaker). 1: The battle is considered a draw. 2: The battle is considered abnormally ended.
     forceEndBattleResult=0
     # Whether G-Max Gold Rush will award extra PokéDollars when used.
@@ -88,7 +88,7 @@ Breeding {
         72
     ]
     # Number of world ticks needed to increase the breeding stage.
-    breedingTicks=18000
+    breedingTicks=1000
     # The list of dimensions where eggs will be galarian. requires regionalFormsByDimension to be enabled.
     galarianEggDimensions=[
         0
@@ -96,13 +96,13 @@ Breeding {
     # Maximum Pokémon a player can have in all ranches across the world. Max of 0 is unlimited.
     maxCumulativePokemonInRanch=0
     # Number of stages to go through before breeding occurs (1-5).
-    numBreedingStages=5
+    numBreedingStages=3
     # Breeding rate modifier that is applied if the Oval Charm is equipped.
     ovalCharmMultiplier=0.5
     # Whether alolan and galarian forms are granted to an egg if they are in a certain dimension.
     regionalFormsByDimension=true
     # Sets the number of steps per Egg cycle. Lower numbers hatch Eggs faster.
-    stepsPerEggCycle=255
+    stepsPerEggCycle=20
     # Control speed of breeding based on the blocks set in the area. If false, will set breeding speed to 1.0x.
     useBreedingEnvironment=true
 }
@@ -203,7 +203,7 @@ General {
     # If enabled, TMs are reusable. If disabled, TMs are consumed upon use.
     allowTMReuse=true
     # If enabled, TRs are reusable. If disabled, TRs are consumed upon use.
-    allowTRReuse=false
+    allowTRReuse=true
     # Allow creepers, skeletons, etc. to spawn in the world. DANGER - can kill you while battling.
     allowVanillaMobs=false
     # Whether or not players will automatically have a Dynamax band
@@ -223,11 +223,11 @@ General {
     # Volume of the music that is played during battles.
     battleMusicVolume=1
     # Whether sleeping in a bed heals a player's Pokémon.
-    bedsHealPokemon=true
+    bedsHealPokemon=false
     # Whether berry juices can be crafted in the infuser or not.
     berryJuiceCrafting=true
     # Multipier for the speed at which berry trees grow. Can be between 0.1 and 1000.
-    berryTreeGrowthMultiplier=1
+    berryTreeGrowthMultiplier=5
     # Which dimensions use both Gen 7 and Gen 8 features. Overrides other options that would affect this otherwise.
     bothGenDimensions=[
         -1,
@@ -245,7 +245,7 @@ General {
     # Allow players to use cloning machines to clone Mew into Mewtwo.
     cloningMachineEnabled=true
     # Sets the amount of boxes players have in their PCs (capped at 256 per player).
-    computerBoxes=30
+    computerBoxes=100
     # If players party and computer are forcefully saved upon every world save (If false, you should be saving data via /saveall, or risk data loss)
     dataSaveOnWorldSave=true
     # Whether or not the "Drop All" button in the Pokémon drops screen will delete the items or drop them on the ground.
@@ -261,7 +261,7 @@ General {
     # If enabled, players will be able to challenge others by throwing a Pokémon at the enemy player rather than a Pokémon.
     engagePlayerByPokeBall=true
     # Experience multiplier when an Exp. Charm is equipped.
-    expCharmMultiplier=1.5
+    expCharmMultiplier=5.5
     # Adjusts the variation in size caused by growth (0-2). 1 is normal.
     growthScaleModifier=1.0
     # Sets The number of times a Azelf, Mesprit and Uxie can enchant a ruby.
@@ -314,7 +314,7 @@ General {
     # Whether which battle gimmick can be used is determined purely by band chosen.
     relaxedBattleGimmickRules=true
     # Whether Legendary bird shrines can be used multiple times. 0 = Once, 1 = Once per player, 2 = Once per mc day, 3 = Once per day, 4 = Unlimited
-    shrineEncounterMode=0
+    shrineEncounterMode=4
     # Allow Legendary bird shrines to spawn randomly in the world.
     spawnBirdShrines=true
     # Allow Celebi shrines (Ilex Shrine) to spawn randomly in the world.
@@ -334,7 +334,7 @@ General {
     # Whether TMs, HMs, and TRs can be used regardless of generation if the Pokémon has it in their TM/HM/TR list somewhere.
     universalTMs=true
     # Whether to display a GUI with Pokémon drops after defeating a regular Pokémon.
-    useDropGUI=true
+    useDropGUI=false
     # Whether the system time is used for berry growth, meaning they will grow even when the game isn't running.
     useSystemTimeForBerries=false
     # Lets your world follow real world time or not (uses the server's system clock).
@@ -361,7 +361,7 @@ Graphics {
     # If true, attack effects are only displayed to players participating in or spectating a battle.
     onlyShowAttackEffectsToBattlers=true
     # Set whether or not the player can control the camera during battles (sets to sphere based camera positioning)
-    playerControlCamera=true
+    playerControlCamera=false
     # The range (in blocks) at which battle effects should be displayed to players if they are not in the battle.
     rangeToDisplayAttackAnimations=40
     # Multiplier of the 64 distance usually used for rendering.
@@ -377,7 +377,7 @@ Graphics {
     # Whether SMD models use smooth animations or not.
     smoothAnimations=false
     # Set whether or not to switch to an external camera during battles.
-    useBattleCamera=true
+    useBattleCamera=false
     # Use the SMD normal maps for shading Poké Balls.
     useSmoothShadingOnPokeBalls=true
     # Adds interpolation to SMD model animation. Will have a performance penalty.
@@ -673,7 +673,7 @@ Spawning {
     # Chance that a Legendary spawn attempt will succeed (0-1).
     legendarySpawnChance=0.30000001192092896
     # Average number of ticks before an attempt at Legendary spawning will be made (modified by spawn chance).
-    legendarySpawnTicks=25000
+    legendarySpawnTicks=10000
     # Which types of loot, such as "simple_dungeon", that Pixelmon should not modify.
     lootIgnoreList=[]
     # How long the effects of the Black/White Flute last for in seconds once used.
@@ -701,7 +701,7 @@ Spawning {
     # Replaces Minecraft's villagers with Pixelmon NPCs.
     replaceMCVillagers=true
     # Shiny calculation uses 1/(Shiny rate) to get odds of becoming Shiny.
-    shinySpawnRate=4096
+    shinySpawnRate=1096
     # The number of spawn passes made per minute. Decrease for better performance.
     spawnFrequency=60
     # Sets spawning of Gyms in close proximity to newly generated towns on or off.
@@ -734,7 +734,7 @@ Starters {
     # The starting level. (min=5, max=100)
     level=5
     # Whether starters should always be shiny.
-    shiny=false
+    shiny=true
     # List of starters, up to a maximum of 24. Supports some specs, namely "form:#" (1 for Alolan, 2 for Galarian) and "shiny". Example: "Vulpix form:1" (double quotes are required)
     starterList=[
         Bulbasaur,
@@ -749,23 +749,23 @@ Starters {
         Turtwig,
         Piplup,
         Chimchar,
-        Snivy,
-        Oshawott,
-        Tepig,
-        Chespin,
-        Froakie,
-        Fennekin,
-        Rowlet,
-        Popplio,
-        Litten,
-        Grookey,
-        Sobble,
-        Scorbunny
+        Dratini,
+        Eevee,
+        Pikachu,
+        Riolu,
+        Larvitar,
+        Bagon,
+        Aerodactyl,
+        Ditto,
+        Happiny,
+        Togepi,
+        Magnemite,
+        Deino
     ]
     # Whether starter Pokémon get the Destiny mark or not.
-    starterMarks=true
+    starterMarks=false
     # Whether the starter list should be loaded from this config.
-    useCustomStarters=false
+    useCustomStarters=true
 }
 # Storage settings for party and computer data.
 Storage {
