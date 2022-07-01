@@ -53,7 +53,6 @@ val rhItems = [
 <prefab:item_logo>,
 <prefab:item_monster_masher>,
 <prefab:item_welcome_center>,
-<tp:bsc_sugar_cookie>,
 <tp:quick_sand>,
 ] as IItemStack[];
 
