@@ -3,6 +3,14 @@ import mods.jei.JEI.removeAndHide as rh;
 
 # item removals
 val rhItems = [
+<apritree:apricorn_one>,
+<apritree:apricorn_two>,
+<apritree:apricorn_three>,
+<apritree:apricorn_four>,
+<apritree:apricorn_five>,
+<apritree:apricorn_ultra>,
+<apritree:apricorn_workbench>,
+<apritree:ball_mold>,
 <disenchanter:disenchantmenttable:1>,
 <disenchanter:disenchantmenttable:2>,
 <disenchanter:disenchantmenttable:3>,
