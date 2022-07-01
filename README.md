@@ -1,6 +1,6 @@
 # Draculacraft Pixelmon v12 (not ready)
 
-Projected launch: 07/01/2022
+Projected launch: 07/03/2022
 
 Will feature 50+ quests with incentives for progressing in Pixelmon with some basic automation (actually additions, chickens, translocators)
 
