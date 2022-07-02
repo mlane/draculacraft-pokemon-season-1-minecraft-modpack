@@ -1,0 +1,65 @@
+{
+  "type": "apritree:green",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "apritree:apricorn_log_one",
+      "meta": 3
+    },
+    "b": {
+      "name": "apritree:apricorn_leaf_one",
+      "meta": 3
+    },
+    "c": {
+      "name": "apritree:apricorn_leaf_one",
+      "meta": 11
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "bbbb ",
+      "bbbb ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  c  ",
+      "  c  ",
+      "bcccb",
+      "bcccb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " ccc ",
+      " cac ",
+      "bcacb",
+      "bcacb",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  c  ",
+      "  c  ",
+      "bcccb",
+      "bcccb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "bbbb ",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "apritree:black",
+  "mod": "apritree",
+  "sapling": {
+    "name": "apritree:apricorn_sapling",
+    "data": 0
+  },
+  "growTimeMultiplier": 1.0,
+  "drops": [
+    {
+      "name": "minecraft:stick",
+      "data": 0,
+      "type": "STICK"
+    },
+    {
+      "name": "apritree:apricorn_sapling",
+      "data": 0,
+      "type": "SAPLING"
+    },
+    {
+      "name": "apritree:apricorn_log_one",
+      "data": 0,
+      "type": "WOOD"
+    },
+    {
+      "name": "apritree:apricorn_leaf_one",
+      "data": 0,
+      "type": "LEAVES"
+    },
+    {
+      "name": "pixelmon:black_apricorn",
+      "data": 0,
+      "type": "FRUIT"
+    }
+  ]
+}

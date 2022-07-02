@@ -1,0 +1,36 @@
+{
+  "name": "apritree:cyan",
+  "mod": "apritree",
+  "sapling": {
+    "name": "apritree:apricorn_sapling_cultivated",
+    "data": 1
+  },
+  "growTimeMultiplier": 1.0,
+  "drops": [
+    {
+      "name": "minecraft:stick",
+      "data": 0,
+      "type": "STICK"
+    },
+    {
+      "name": "apritree:apricorn_sapling_cultivated",
+      "data": 1,
+      "type": "SAPLING"
+    },
+    {
+      "name": "apritree:apricorn_log_three",
+      "data": 1,
+      "type": "WOOD"
+    },
+    {
+      "name": "apritree:apricorn_leaf_three",
+      "data": 1,
+      "type": "LEAVES"
+    },
+    {
+      "name": "apritree:apricorn",
+      "data": 5,
+      "type": "FRUIT"
+    }
+  ]
+}

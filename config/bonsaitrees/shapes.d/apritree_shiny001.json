@@ -1,0 +1,65 @@
+{
+  "type": "apritree:shiny",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "apritree:apricorn_log_ultra",
+      "meta": 1
+    },
+    "b": {
+      "name": "apritree:apricorn_leaf_ultra",
+      "meta": 1
+    },
+    "c": {
+      "name": "apritree:apricorn_leaf_ultra",
+      "meta": 9
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "bbbb ",
+      "bbbb ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  c  ",
+      "  c  ",
+      "bcccb",
+      "bcccb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " ccc ",
+      " cac ",
+      "bcacb",
+      "bcacb",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  c  ",
+      "  c  ",
+      "bcccb",
+      "bcccb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "bbbb ",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

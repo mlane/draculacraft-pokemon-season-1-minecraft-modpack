@@ -1,0 +1,70 @@
+{
+  "type": "apritree:gilded",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "apritree:apricorn_log_five",
+      "meta": 0
+    },
+    "b": {
+      "name": "apritree:apricorn_leaf_five",
+      "meta": 0
+    },
+    "c": {
+      "name": "apritree:apricorn_leaf_five",
+      "meta": 8
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "bbbb ",
+      " bbb ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  c  ",
+      "  c  ",
+      "bcccb",
+      "bcccb",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " ccc ",
+      " cac ",
+      "bcacb",
+      "bcacb",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  c  ",
+      " cc  ",
+      "bcccb",
+      "bcccb",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " bbbb",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

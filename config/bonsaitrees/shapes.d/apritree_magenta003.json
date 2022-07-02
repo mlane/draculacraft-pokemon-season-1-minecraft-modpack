@@ -1,0 +1,70 @@
+{
+  "type": "apritree:magenta",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "apritree:apricorn_log_four",
+      "meta": 3
+    },
+    "b": {
+      "name": "apritree:apricorn_leaf_four",
+      "meta": 3
+    },
+    "c": {
+      "name": "apritree:apricorn_leaf_four",
+      "meta": 11
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "bbbb ",
+      " bbb ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  c  ",
+      "  c  ",
+      "bcccb",
+      "bcccb",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " ccc ",
+      " cac ",
+      "bcacb",
+      "bcacb",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  c  ",
+      " cc  ",
+      "bcccb",
+      "bcccb",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " bbbb",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}
