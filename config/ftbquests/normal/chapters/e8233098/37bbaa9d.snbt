@@ -1,0 +1,17 @@
+{
+	x: -3.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "9cd5d5af",
+		type: "item",
+		items: [{
+			item: "pixelmon:quick_ball"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "e78b4fcc",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

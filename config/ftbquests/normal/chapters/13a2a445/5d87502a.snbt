@@ -1,0 +1,26 @@
+{
+	title: "Objective",
+	x: -1.5d,
+	y: 2.0d,
+	text: [
+		"Example"
+	],
+	dependencies: [
+		"4bfbd1f3"
+	],
+	tasks: [{
+		uid: "39ffe465",
+		type: "checkmark",
+		title: "Objective"
+	}],
+	rewards: [{
+		uid: "9019c070",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	},
+	{
+		uid: "38040a79",
+		type: "item",
+		item: "actuallyadditions:block_smiley_cloud"
+	}]
+}

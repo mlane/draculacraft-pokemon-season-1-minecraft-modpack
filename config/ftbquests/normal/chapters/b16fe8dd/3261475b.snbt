@@ -1,0 +1,64 @@
+{
+	title: "Empowerer",
+	x: 3.0d,
+	y: -4.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "8f55e0b0",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_display_stand"
+		}]
+	},
+	{
+		uid: "2b679a25",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_empowerer"
+		}]
+	},
+	{
+		uid: "ffce10a4",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_crystal_empowered 1 4"
+		}]
+	},
+	{
+		uid: "1b019b9e",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_crystal_empowered 1 5"
+		}]
+	},
+	{
+		uid: "a3a866b7",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_crystal_empowered"
+		}]
+	},
+	{
+		uid: "4838602b",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_crystal_empowered 1 1"
+		}]
+	},
+	{
+		uid: "16ae63c8",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_crystal_empowered 1 2"
+		}]
+	},
+	{
+		uid: "9fc1ae00",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_crystal_empowered 1 3"
+		}]
+	}]
+}

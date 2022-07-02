@@ -1,0 +1,26 @@
+{
+	x: 4.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "a8602a93",
+		type: "item",
+		items: [{
+			item: "pixelmon:orb"
+		}]
+	}],
+	rewards: [{
+		uid: "cc4931b9",
+		type: "item",
+		item: "pixelmon:fire_stone"
+	},
+	{
+		uid: "c202ce56",
+		type: "item",
+		item: "pixelmon:water_stone"
+	},
+	{
+		uid: "5716c1e2",
+		type: "item",
+		item: "pixelmon:ice_stone"
+	}]
+}

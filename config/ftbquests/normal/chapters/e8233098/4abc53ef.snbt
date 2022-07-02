@@ -1,0 +1,74 @@
+{
+	title: "Candies",
+	x: 6.0d,
+	y: 4.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "ea43c27a",
+		type: "item",
+		items: [{
+			item: "pixelmon:rare_candy"
+		}]
+	},
+	{
+		uid: "65621822",
+		type: "item",
+		items: [{
+			item: "pixelmon:xs_exp_candy"
+		}]
+	},
+	{
+		uid: "cf660d38",
+		type: "item",
+		items: [{
+			item: "pixelmon:s_exp_candy"
+		}]
+	},
+	{
+		uid: "823be767",
+		type: "item",
+		items: [{
+			item: "pixelmon:m_exp_candy"
+		}]
+	},
+	{
+		uid: "88281f07",
+		type: "item",
+		items: [{
+			item: "pixelmon:l_exp_candy"
+		}]
+	},
+	{
+		uid: "eaf22c7c",
+		type: "item",
+		items: [{
+			item: "pixelmon:xl_exp_candy"
+		}]
+	},
+	{
+		uid: "ef921cd0",
+		type: "item",
+		items: [{
+			item: "pixelmon:rage_candy_bar"
+		}]
+	},
+	{
+		uid: "e62ab998",
+		type: "item",
+		items: [{
+			item: "pixelmon:dynamax_candy"
+		}]
+	}],
+	rewards: [{
+		uid: "cd3de043",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	},
+	{
+		uid: "a8e13985",
+		type: "item",
+		item: "pixelmon:clear_bell"
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	text: [
+		"Grass is the best soil for bonsai. You can buy silk touch enchantment in the shop."
+	],
+	dependencies: [
+		"e529373a"
+	],
+	tasks: [{
+		uid: "eda745ad",
+		type: "item",
+		items: [{
+			item: "minecraft:grass"
+		}]
+	}],
+	rewards: [{
+		uid: "d9dedc69",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	}]
+}

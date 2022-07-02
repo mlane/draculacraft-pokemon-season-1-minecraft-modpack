@@ -1,0 +1,26 @@
+{
+	x: 3.0d,
+	y: -1.5d,
+	dependencies: [
+		"c24a851c"
+	],
+	tasks: [{
+		uid: "f285ea94",
+		type: "item",
+		items: [{
+			item: "pixelmon:tres_orb"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "542e9397",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	},
+	{
+		uid: "18eb402b",
+		type: "item",
+		item: "pixelmon:lure_fire_weak"
+	}]
+}

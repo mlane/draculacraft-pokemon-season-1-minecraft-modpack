@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "72f0f84f",
+		type: "item",
+		items: [{
+			item: "pixelmon:anvil"
+		}]
+	}],
+	rewards: [{
+		uid: "0cf120d5",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

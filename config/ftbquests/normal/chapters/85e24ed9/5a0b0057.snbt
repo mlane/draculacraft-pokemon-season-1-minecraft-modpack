@@ -1,0 +1,26 @@
+{
+	x: -6.5d,
+	y: -0.5d,
+	text: [
+		"A bauble that negates any fall damage."
+	],
+	tasks: [{
+		uid: "c0460c69",
+		type: "item",
+		items: [{
+			item: "artifacts:lucky_horseshoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c5b3bd92",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	},
+	{
+		uid: "fc5ed9a5",
+		type: "item",
+		item: "minecraft:dye"
+	}]
+}

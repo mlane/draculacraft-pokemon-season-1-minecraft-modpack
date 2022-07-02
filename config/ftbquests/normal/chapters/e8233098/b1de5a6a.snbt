@@ -1,0 +1,61 @@
+{
+	title: "Fossil Machines",
+	x: 1.5d,
+	y: 4.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"34739832"
+	],
+	tasks: [{
+		uid: "98344ab3",
+		type: "item",
+		items: [{
+			item: "pixelmon:fossil_cleaner"
+		}]
+	},
+	{
+		uid: "c58f15ed",
+		type: "item",
+		items: [{
+			item: "pixelmon:fossil_machine"
+		}]
+	}],
+	rewards: [{
+		uid: "9f9195c3",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	},
+	{
+		uid: "62628e99",
+		type: "item",
+		item: "pixelmon:covered_fossil_11"
+	},
+	{
+		uid: "829628a3",
+		type: "item",
+		item: "pixelmon:covered_fossil_12"
+	},
+	{
+		uid: "3201bfef",
+		type: "item",
+		item: "pixelmon:covered_fossil_13"
+	},
+	{
+		uid: "b57a35f4",
+		type: "item",
+		item: "pixelmon:covered_fossil_14"
+	},
+	{
+		uid: "68bc1a21",
+		type: "item",
+		item: {
+			id: "tcg:pack",
+			tag: {
+				SetID: 3,
+				Weight: 0.5f
+			}
+		}
+	}]
+}

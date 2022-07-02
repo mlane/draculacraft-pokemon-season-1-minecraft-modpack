@@ -1,0 +1,25 @@
+{
+	x: -2.0d,
+	y: 1.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"9d9f1431"
+	],
+	tasks: [{
+		uid: "6b614062",
+		type: "item",
+		items: [{
+			item: "portablecraft:portablecrafting"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "925e1014",
+		type: "item",
+		item: "pixelmon:aluminium_plate",
+		count: 10
+	}]
+}

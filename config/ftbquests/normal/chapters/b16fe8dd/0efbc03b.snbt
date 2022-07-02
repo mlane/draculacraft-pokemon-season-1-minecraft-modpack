@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: -3.0d,
+	dependencies: [
+		"a5913106"
+	],
+	tasks: [{
+		uid: "cddd1487",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_furnace_double"
+		}]
+	}]
+}

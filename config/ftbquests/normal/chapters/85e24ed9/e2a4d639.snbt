@@ -1,0 +1,43 @@
+{
+	x: 2.5d,
+	y: 2.5d,
+	text: [
+		"Ultimate building wand with unlimited durability. Note: use wisely."
+	],
+	tasks: [{
+		uid: "61a480fb",
+		type: "item",
+		items: [{
+			item: "betterbuilderswands:wandunbreakable"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b889892e",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	},
+	{
+		uid: "1266ed05",
+		type: "item",
+		item: {
+			id: "tcg:pack",
+			tag: {
+				SetID: 2,
+				Weight: 0.5f
+			}
+		}
+	},
+	{
+		uid: "893413ea",
+		type: "item",
+		item: {
+			id: "tcg:pack",
+			tag: {
+				SetID: 1,
+				Weight: 0.5f
+			}
+		}
+	}]
+}

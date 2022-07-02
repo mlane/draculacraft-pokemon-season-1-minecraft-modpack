@@ -1,0 +1,75 @@
+{
+	title: "Vitamins",
+	x: 6.0d,
+	y: 3.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "d4f74260",
+		type: "item",
+		items: [{
+			item: "pixelmon:hp_up"
+		}]
+	},
+	{
+		uid: "99c6b809",
+		type: "item",
+		items: [{
+			item: "pixelmon:protein"
+		}]
+	},
+	{
+		uid: "0479624c",
+		type: "item",
+		items: [{
+			item: "pixelmon:iron"
+		}]
+	},
+	{
+		uid: "43340327",
+		type: "item",
+		items: [{
+			item: "pixelmon:calcium"
+		}]
+	},
+	{
+		uid: "91463eb8",
+		type: "item",
+		items: [{
+			item: "pixelmon:zinc"
+		}]
+	},
+	{
+		uid: "a50a0420",
+		type: "item",
+		items: [{
+			item: "pixelmon:carbos"
+		}]
+	},
+	{
+		uid: "f12ccf24",
+		type: "item",
+		items: [{
+			item: "pixelmon:pp_up"
+		}]
+	},
+	{
+		uid: "46e0ff56",
+		type: "item",
+		items: [{
+			item: "pixelmon:pp_max"
+		}]
+	}],
+	rewards: [{
+		uid: "c355370a",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	},
+	{
+		uid: "e7e87d48",
+		type: "item",
+		item: "pixelmon:apicot_berry",
+		count: 16
+	}]
+}

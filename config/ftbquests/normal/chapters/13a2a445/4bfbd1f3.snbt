@@ -1,0 +1,23 @@
+{
+	x: -1.5d,
+	y: -0.5d,
+	text: [
+		"Example"
+	],
+	tasks: [{
+		uid: "40c23b84",
+		type: "checkmark",
+		title: "Welcome"
+	}],
+	rewards: [{
+		uid: "44a273fe",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	},
+	{
+		uid: "e2e54fed",
+		type: "item",
+		item: "pixelmon:poke_ball",
+		count: 20
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "5cf99534",
+		type: "item",
+		items: [{
+			item: "pixelmon:aluminium_plate"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "e6b24e48",
+		type: "ftbmoney:money",
+		ftb_money: 400L
+	}]
+}

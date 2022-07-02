@@ -1,0 +1,26 @@
+{
+	x: -0.5d,
+	y: 1.0d,
+	text: [
+		"A way to store your precious XP."
+	],
+	dependencies: [
+		"c662bf1e"
+	],
+	tasks: [{
+		uid: "06da6339",
+		type: "item",
+		items: [{
+			id: "xpbook:xp_tome",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3a6cb89e",
+		type: "item",
+		item: "morechickens:solidxp",
+		count: 32
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: -4.5d,
+	dependencies: [
+		"a5913106"
+	],
+	tasks: [{
+		uid: "142606f2",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_giant_chest_medium"
+		}]
+	}]
+}

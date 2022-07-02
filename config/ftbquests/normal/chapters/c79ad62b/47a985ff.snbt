@@ -1,0 +1,17 @@
+{
+	x: -1.5d,
+	y: 1.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "c30a1bbb",
+		type: "item",
+		items: [{
+			item: "pixelmon:master_ball"
+		}]
+	}],
+	rewards: [{
+		uid: "59e50ce7",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	title: "Simple Storage Network Upgrades",
+	x: 6.0d,
+	y: 7.5d,
+	text: [
+		"Used to improve your import/export cables."
+	],
+	dependencies: [
+		"983e3d1d"
+	],
+	tasks: [{
+		uid: "13f3880b",
+		type: "item",
+		items: [{
+			item: "storagenetwork:upgrade"
+		}]
+	},
+	{
+		uid: "bd361742",
+		type: "item",
+		items: [{
+			item: "storagenetwork:upgrade 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "5f84207a",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	}]
+}

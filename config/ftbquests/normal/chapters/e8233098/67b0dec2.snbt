@@ -1,0 +1,33 @@
+{
+	x: -1.5d,
+	y: 6.0d,
+	dependencies: [
+		"23c91299"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "4dfa1032",
+		type: "item",
+		items: [{
+			item: "pixelmon:acro_bike"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "84dddaaa",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	},
+	{
+		uid: "9506440d",
+		type: "item",
+		item: {
+			id: "tcg:pack",
+			tag: {
+				SetID: 1,
+				Weight: 0.5f
+			}
+		}
+	}]
+}

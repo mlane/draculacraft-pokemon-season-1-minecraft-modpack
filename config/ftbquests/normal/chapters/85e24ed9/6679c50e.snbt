@@ -1,0 +1,25 @@
+{
+	x: -9.5d,
+	y: -0.5d,
+	text: [
+		"Similar to the enchantment table that strips enchantments from items and moves them into books."
+	],
+	tasks: [{
+		uid: "070d7efb",
+		type: "item",
+		items: [{
+			item: "disenchanter:disenchantmenttable"
+		}]
+	}],
+	rewards: [{
+		uid: "262a99e1",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	},
+	{
+		uid: "989f685a",
+		type: "item",
+		item: "minecraft:book",
+		count: 64
+	}]
+}

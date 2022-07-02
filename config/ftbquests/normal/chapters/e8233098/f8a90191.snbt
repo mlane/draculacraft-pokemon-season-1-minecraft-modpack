@@ -1,0 +1,22 @@
+{
+	x: 4.5d,
+	y: 7.5d,
+	dependencies: [
+		"1d46ee66"
+	],
+	tasks: [{
+		uid: "b653a7a0",
+		type: "item",
+		items: [{
+			item: "pixelmon:lure_ha_strong"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7d98745a",
+		type: "item",
+		item: "pixelmon:lum_berry",
+		count: 16
+	}]
+}

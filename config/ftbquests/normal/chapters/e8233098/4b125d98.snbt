@@ -1,0 +1,21 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	dependencies: [
+		"f6236bff"
+	],
+	tasks: [{
+		uid: "13bdef2c",
+		type: "item",
+		items: [{
+			item: "pixelmon:iron_hammer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "aaabbed6",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

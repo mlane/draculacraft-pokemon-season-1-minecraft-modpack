@@ -1,0 +1,32 @@
+{
+	x: -1.5d,
+	y: 3.0d,
+	dependencies: [
+		"29efc142"
+	],
+	tasks: [{
+		uid: "0206cc77",
+		type: "item",
+		items: [{
+			item: "pixelmon:super_rod"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6b2cff8e",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	},
+	{
+		uid: "f1c32bcf",
+		type: "item",
+		item: {
+			id: "tcg:pack",
+			tag: {
+				SetID: 1,
+				Weight: 0.5f
+			}
+		}
+	}]
+}

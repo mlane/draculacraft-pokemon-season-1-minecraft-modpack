@@ -1,0 +1,29 @@
+{
+	x: -9.5d,
+	y: 1.0d,
+	text: [
+		"Nifty way of repairing your items using energy."
+	],
+	tasks: [{
+		uid: "543416ad",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:block_anvil"
+		}]
+	}],
+	rewards: [{
+		uid: "2e39cd59",
+		type: "item",
+		item: "minecraft:anvil"
+	},
+	{
+		uid: "ee208900",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	},
+	{
+		uid: "4ccacfc8",
+		type: "item",
+		item: "pixelmon:orb"
+	}]
+}

@@ -1,0 +1,43 @@
+{
+	title: "The Two Towers",
+	x: -3.0d,
+	y: 4.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "f0ff0d8c",
+		type: "item",
+		items: [{
+			id: "pixelmon:scroll_of_waters",
+			tag: {
+				BlockEntityTag: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "fef8a9a7",
+		type: "item",
+		items: [{
+			id: "pixelmon:scroll_of_darkness",
+			tag: {
+				BlockEntityTag: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b8c94cea",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	},
+	{
+		uid: "f7184153",
+		type: "item",
+		item: "pixelmon:rare_candy",
+		count: 16
+	}]
+}

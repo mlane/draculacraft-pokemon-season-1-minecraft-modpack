@@ -1,0 +1,21 @@
+{
+	title: "Controls",
+	x: -3.5d,
+	y: 6.0d,
+	text: [
+		"It's always a good idea to start any journey off by reviewing/tweaking your controls. It's recommended to take a closer in particular to the following Mods: Better Sprinting, Levelup! Reloaded, and Pixelmon."
+	],
+	dependencies: [
+		"5d87502a"
+	],
+	tasks: [{
+		uid: "87a81724",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "6df314de",
+		type: "item",
+		item: "actuallyadditions:item_solidified_experience",
+		count: 64
+	}]
+}

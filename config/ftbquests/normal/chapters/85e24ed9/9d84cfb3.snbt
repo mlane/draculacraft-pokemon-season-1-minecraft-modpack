@@ -1,0 +1,76 @@
+{
+	title: "Dragon Armor",
+	x: 2.5d,
+	y: 1.0d,
+	text: [
+		"The ultimate armor with many buffs."
+	],
+	tasks: [{
+		uid: "e5a162ee",
+		type: "item",
+		items: [{
+			item: "tp:dragon_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d36a37d8",
+		type: "item",
+		items: [{
+			item: "tp:dragon_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "14c4413f",
+		type: "item",
+		items: [{
+			item: "tp:dragon_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b77a949b",
+		type: "item",
+		items: [{
+			item: "tp:dragon_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a6e34f14",
+		type: "ftbmoney:money",
+		ftb_money: 10000L
+	},
+	{
+		uid: "16952147",
+		type: "item",
+		item: "pixelmon:cloning_machine"
+	},
+	{
+		uid: "9d37780d",
+		type: "item",
+		item: {
+			id: "tcg:pack",
+			tag: {
+				SetID: 3,
+				Weight: 0.5f
+			}
+		}
+	},
+	{
+		uid: "bbc82046",
+		type: "item",
+		item: {
+			id: "tcg:pack",
+			tag: {
+				SetID: 4,
+				Weight: 0.5f
+			}
+		}
+	}]
+}

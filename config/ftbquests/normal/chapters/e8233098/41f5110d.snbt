@@ -1,0 +1,21 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "086428f8",
+		type: "item",
+		items: [{
+			item: "pixelmon:trade_machine"
+		}]
+	}],
+	rewards: [{
+		uid: "6924a49b",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "ab9afd0e",
+		type: "item",
+		item: "pixelmon:soothe_bell"
+	}]
+}

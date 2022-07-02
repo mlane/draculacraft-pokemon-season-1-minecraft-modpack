@@ -1,0 +1,55 @@
+{
+	title: "Crafting Porygon",
+	x: 0.0d,
+	y: 6.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"46f5502f"
+	],
+	tasks: [{
+		uid: "c85ab07c",
+		type: "item",
+		items: [{
+			item: "pixelmon:porygon_piece 1 1"
+		}]
+	},
+	{
+		uid: "4feb3b8b",
+		type: "item",
+		items: [{
+			item: "pixelmon:porygon_piece 1 2"
+		}]
+	},
+	{
+		uid: "c8f03d23",
+		type: "item",
+		items: [{
+			item: "pixelmon:porygon_piece 1 3"
+		}]
+	},
+	{
+		uid: "9c0516db",
+		type: "item",
+		items: [{
+			item: "pixelmon:porygon_piece 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "d3a86a15",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	},
+	{
+		uid: "c695fe9f",
+		type: "item",
+		item: "pixelmon:leftovers"
+	},
+	{
+		uid: "307c7f37",
+		type: "item",
+		item: "pixelmon:l_exp_candy",
+		count: 64
+	}]
+}

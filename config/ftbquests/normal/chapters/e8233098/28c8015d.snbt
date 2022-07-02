@@ -1,0 +1,16 @@
+{
+	x: -3.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "44aecd68",
+		type: "item",
+		items: [{
+			item: "pixelmon:ranch_upgrade"
+		}]
+	}],
+	rewards: [{
+		uid: "59410f81",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

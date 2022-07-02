@@ -1,0 +1,22 @@
+{
+	x: -3.5d,
+	y: 1.0d,
+	text: [
+		"A new blank upgrade will be needed for each storage upgrade (five in total)."
+	],
+	dependencies: [
+		"4fabf966"
+	],
+	tasks: [{
+		uid: "2c3eeb91",
+		type: "item",
+		items: [{
+			item: "improvedbackpacks:blank_upgrade"
+		}]
+	}],
+	rewards: [{
+		uid: "cc127928",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

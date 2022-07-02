@@ -1,0 +1,23 @@
+{
+	x: 6.0d,
+	y: 6.0d,
+	text: [
+		"Allows you to access your simple storage network in any dimension (provided your network master/request table are chunkloaded)."
+	],
+	dependencies: [
+		"baa91eb9"
+	],
+	tasks: [{
+		uid: "567b73b0",
+		type: "item",
+		items: [{
+			item: "storagenetwork:remote 1 1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8057c270",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}

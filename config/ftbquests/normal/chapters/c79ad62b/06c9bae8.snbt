@@ -1,0 +1,17 @@
+{
+	title: "Repeatable Quests",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"Running out cash? The following quests will always be available and can be repeated as often as you desire."
+	],
+	tasks: [{
+		uid: "83f11d32",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "d5692ad1",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

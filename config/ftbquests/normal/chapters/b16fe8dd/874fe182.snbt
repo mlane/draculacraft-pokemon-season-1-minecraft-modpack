@@ -1,0 +1,22 @@
+{
+	x: 6.0d,
+	y: 3.0d,
+	text: [
+		"This of this like a crafting table but also an inventory where you can view/craft/remove/add items."
+	],
+	dependencies: [
+		"57252c2d"
+	],
+	tasks: [{
+		uid: "87baa8ef",
+		type: "item",
+		items: [{
+			item: "storagenetwork:request"
+		}]
+	}],
+	rewards: [{
+		uid: "555b8a30",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	}]
+}

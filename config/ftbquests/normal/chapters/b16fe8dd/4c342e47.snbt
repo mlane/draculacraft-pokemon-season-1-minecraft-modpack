@@ -1,0 +1,18 @@
+{
+	title: "Translocator - Stack",
+	x: -1.5d,
+	y: 1.5d,
+	text: [
+		"Right click a translocator with glowstone to transfer items a stack at a time."
+	],
+	dependencies: [
+		"7bd5e07c"
+	],
+	tasks: [{
+		uid: "08b86e72",
+		type: "item",
+		items: [{
+			item: "minecraft:glowstone_dust"
+		}]
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: -3.0d,
+	y: -9.0d,
+	tasks: [{
+		uid: "143efc46",
+		type: "item",
+		items: [{
+			item: "pixelmon:park_ball"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "03c23d43",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	},
+	{
+		uid: "3fbf4f85",
+		type: "item",
+		item: "pixelmon:rare_candy",
+		count: 64
+	}]
+}

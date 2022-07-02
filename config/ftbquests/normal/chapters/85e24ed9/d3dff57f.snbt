@@ -1,0 +1,60 @@
+{
+	x: -8.0d,
+	y: 1.0d,
+	text: [
+		"No water needed and useful for speeding up crops."
+	],
+	dependencies: [
+		"76ffb927"
+	],
+	tasks: [{
+		uid: "20d952a3",
+		type: "item",
+		items: [{
+			item: "tp:watering_can"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "85a06503",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	},
+	{
+		uid: "068762b5",
+		type: "item",
+		item: "minecraft:sapling"
+	},
+	{
+		uid: "e642ab9e",
+		type: "item",
+		item: "minecraft:sapling 1 1"
+	},
+	{
+		uid: "a5f92c1a",
+		type: "item",
+		item: "minecraft:sapling 1 2"
+	},
+	{
+		uid: "2e332409",
+		type: "item",
+		item: "minecraft:sapling 1 3"
+	},
+	{
+		uid: "817f17ad",
+		type: "item",
+		item: "minecraft:sapling 1 4"
+	},
+	{
+		uid: "966a4206",
+		type: "item",
+		item: "minecraft:sapling 1 5"
+	},
+	{
+		uid: "acb7931f",
+		type: "item",
+		item: "harvestcraft:walnutraisinbreaditem",
+		count: 16
+	}]
+}

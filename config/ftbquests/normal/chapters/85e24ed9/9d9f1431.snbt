@@ -1,0 +1,19 @@
+{
+	x: -2.0d,
+	y: -0.5d,
+	text: [
+		"Needed for the PortableCraft recipes."
+	],
+	tasks: [{
+		uid: "dbf11dda",
+		type: "item",
+		items: [{
+			item: "portablecraft:portableempty"
+		}]
+	}],
+	rewards: [{
+		uid: "3313d067",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

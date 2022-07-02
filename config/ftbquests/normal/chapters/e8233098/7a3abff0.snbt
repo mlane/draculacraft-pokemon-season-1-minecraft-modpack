@@ -1,0 +1,145 @@
+{
+	title: "Trading Cards",
+	x: -1.5d,
+	y: -3.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "96a3bbff",
+		type: "item",
+		items: [{
+			id: "tcg:pack",
+			tag: {
+				SetID: 2,
+				Weight: 0.5f
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b3924ff7",
+		type: "item",
+		items: [{
+			id: "tcg:pack",
+			tag: {
+				SetID: 4,
+				Weight: 0.5f
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "82f7b92b",
+		type: "item",
+		items: [{
+			id: "tcg:pack",
+			tag: {
+				SetID: 3,
+				Weight: 0.5f
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "dc2647b5",
+		type: "item",
+		items: [{
+			id: "tcg:pack",
+			tag: {
+				SetID: 1,
+				Weight: 0.5f
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "67213cfe",
+		type: "item",
+		items: [{
+			id: "tcg:deck",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8d079f4f",
+		type: "item",
+		items: [{
+			item: "tcg:card_printer"
+		}]
+	},
+	{
+		uid: "ec11250f",
+		type: "item",
+		items: [{
+			id: "tcg:binder",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "49c4fb56",
+		type: "item",
+		items: [{
+			item: "tcg:compendium"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1b8c1d87",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "a17785ce",
+		type: "item",
+		item: {
+			id: "tcg:pack",
+			tag: {
+				SetID: 2,
+				Weight: 0.5f
+			}
+		}
+	},
+	{
+		uid: "4e157dd2",
+		type: "item",
+		item: {
+			id: "tcg:pack",
+			tag: {
+				SetID: 4,
+				Weight: 0.5f
+			}
+		}
+	},
+	{
+		uid: "6e68075d",
+		type: "item",
+		item: {
+			id: "tcg:pack",
+			tag: {
+				SetID: 3,
+				Weight: 0.5f
+			}
+		}
+	},
+	{
+		uid: "694b3076",
+		type: "item",
+		item: {
+			id: "tcg:pack",
+			tag: {
+				SetID: 1,
+				Weight: 0.5f
+			}
+		}
+	}]
+}

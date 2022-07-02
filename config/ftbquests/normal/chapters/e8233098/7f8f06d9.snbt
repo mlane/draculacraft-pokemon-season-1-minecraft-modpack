@@ -1,0 +1,22 @@
+{
+	x: 4.5d,
+	y: 3.0d,
+	dependencies: [
+		"0c80fe75"
+	],
+	tasks: [{
+		uid: "d498aa17",
+		type: "item",
+		items: [{
+			item: "pixelmon:lure_ha_weak"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "65f115c6",
+		type: "item",
+		item: "pixelmon:petaya_berry",
+		count: 16
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	title: "Translocator - Filter",
+	x: -1.5d,
+	y: 3.0d,
+	text: [
+		"Right click a translocator with diamond nugget to filter what goes in/out."
+	],
+	dependencies: [
+		"4c342e47"
+	],
+	tasks: [{
+		uid: "53b78fa0",
+		type: "item",
+		items: [{
+			item: "translocators:diamond_nugget"
+		}]
+	}]
+}

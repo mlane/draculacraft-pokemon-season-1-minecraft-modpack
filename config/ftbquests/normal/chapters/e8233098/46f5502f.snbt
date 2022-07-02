@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	dependencies: [
+		"3dd8a487"
+	],
+	tasks: [{
+		uid: "6c9b5fd4",
+		type: "item",
+		items: [{
+			item: "pixelmon:aluminium_plate"
+		}]
+	}],
+	rewards: [{
+		uid: "771029fc",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

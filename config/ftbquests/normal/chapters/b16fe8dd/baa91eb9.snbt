@@ -1,0 +1,36 @@
+{
+	x: 6.0d,
+	y: 4.5d,
+	text: [
+		"Remember this is not AE2 or Refined Storage. Use these sparingly (especially export/import cables)."
+	],
+	dependencies: [
+		"874fe182"
+	],
+	tasks: [{
+		uid: "0bd1fe3f",
+		type: "item",
+		items: [{
+			item: "storagenetwork:storage_kabel"
+		}]
+	},
+	{
+		uid: "b0429ee1",
+		type: "item",
+		items: [{
+			item: "storagenetwork:im_kabel"
+		}]
+	},
+	{
+		uid: "173004ea",
+		type: "item",
+		items: [{
+			item: "storagenetwork:ex_kabel"
+		}]
+	}],
+	rewards: [{
+		uid: "e9eafa55",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

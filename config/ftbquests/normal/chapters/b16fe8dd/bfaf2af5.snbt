@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: -6.0d,
+	dependencies: [
+		"3261475b"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "1047cf90",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_xp_solidifier"
+		}]
+	}]
+}

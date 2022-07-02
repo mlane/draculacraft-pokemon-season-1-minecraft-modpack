@@ -1,0 +1,7 @@
+{
+	title: "Sell Stuff",
+	icon: "pixelmon:amulet_coin",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

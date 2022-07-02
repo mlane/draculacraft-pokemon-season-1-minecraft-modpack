@@ -1,0 +1,28 @@
+{
+	x: -3.5d,
+	y: -0.5d,
+	text: [
+		"The backpack can be placed in your baubles inventory."
+	],
+	tasks: [{
+		uid: "2b43f38c",
+		type: "item",
+		items: [{
+			item: "improvedbackpacks:backpack"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d80a5d2f",
+		type: "item",
+		item: "minecraft:leather",
+		count: 10
+	},
+	{
+		uid: "d10a220c",
+		type: "item",
+		item: "actuallyadditions:item_flax_seed",
+		count: 5
+	}]
+}

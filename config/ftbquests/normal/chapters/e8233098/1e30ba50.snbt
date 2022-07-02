@@ -1,0 +1,18 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "fc8236da",
+		type: "item",
+		items: [{
+			item: "pixelmon:old_rod"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "27ce5ce4",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

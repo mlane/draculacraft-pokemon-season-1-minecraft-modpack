@@ -1,0 +1,19 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	text: [
+		"The basic cable for simple storage network."
+	],
+	tasks: [{
+		uid: "19dbb42f",
+		type: "item",
+		items: [{
+			item: "storagenetwork:kabel"
+		}]
+	}],
+	rewards: [{
+		uid: "cd6ebead",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

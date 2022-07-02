@@ -1,0 +1,19 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	dependencies: [
+		"ae6d2a92"
+	],
+	tasks: [{
+		uid: "5f8001d8",
+		type: "item",
+		items: [{
+			item: "pixelmon:pc"
+		}]
+	}],
+	rewards: [{
+		uid: "771154ef",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

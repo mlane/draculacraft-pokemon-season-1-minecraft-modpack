@@ -1,0 +1,21 @@
+{
+	x: -3.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "41720354",
+		type: "item",
+		items: [{
+			item: "pixelmon:ranch"
+		}]
+	}],
+	rewards: [{
+		uid: "4a0d70db",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	},
+	{
+		uid: "ccf83fee",
+		type: "item",
+		item: "pixelmon:pc"
+	}]
+}

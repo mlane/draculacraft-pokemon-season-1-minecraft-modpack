@@ -1,0 +1,25 @@
+{
+	x: -8.0d,
+	y: -0.5d,
+	text: [
+		"AIOT (all-in-one-tool) is every tool (minus hoe) in one package."
+	],
+	tasks: [{
+		uid: "a1e3dc3f",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:wooden_paxel"
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "da149705",
+		type: "item",
+		item: "actuallyadditions:iron_paxel"
+	},
+	{
+		uid: "7c261e96",
+		type: "xp",
+		xp: 100
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	x: 2.5d,
+	y: -0.5d,
+	text: [
+		"The ultimate watering can."
+	],
+	tasks: [{
+		uid: "b221884c",
+		type: "item",
+		items: [{
+			item: "tp:watering_can_upgrade"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f97cdd80",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	},
+	{
+		uid: "dfbc4ed6",
+		type: "xp",
+		xp: 300
+	}]
+}

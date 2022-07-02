@@ -1,0 +1,29 @@
+{
+	x: -2.0d,
+	y: 4.0d,
+	text: [
+		"A great way to store all your PortalCrafts in one place."
+	],
+	dependencies: [
+		"b5a43496"
+	],
+	tasks: [{
+		uid: "39ea473d",
+		type: "item",
+		items: [{
+			item: "portablecraft:holder"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "19e67da1",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	},
+	{
+		uid: "37f04d88",
+		type: "xp",
+		xp: 100
+	}]
+}

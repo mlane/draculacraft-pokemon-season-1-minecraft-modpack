@@ -1,0 +1,22 @@
+{
+	x: 3.0d,
+	y: 7.5d,
+	tasks: [{
+		uid: "2244feb5",
+		type: "item",
+		items: [{
+			item: "pixelmon_gui_blocks:move_relearner_block"
+		}]
+	}],
+	rewards: [{
+		uid: "53e332f1",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "eb4a40de",
+		type: "item",
+		item: "pixelmon:carbos",
+		count: 16
+	}]
+}

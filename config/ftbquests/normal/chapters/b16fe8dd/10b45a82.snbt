@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	dependencies: [
+		"a135b226"
+	],
+	tasks: [{
+		uid: "03add145",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_storage 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "fd3a80b7",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

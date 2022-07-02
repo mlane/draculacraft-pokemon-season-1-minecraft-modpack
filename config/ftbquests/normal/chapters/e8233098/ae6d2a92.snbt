@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "a96c3a58",
+		type: "item",
+		items: [{
+			item: "pixelmon:healer"
+		}]
+	}],
+	rewards: [{
+		uid: "15feb67f",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

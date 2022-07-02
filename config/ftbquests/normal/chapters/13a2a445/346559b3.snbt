@@ -1,0 +1,26 @@
+{
+	title: "Skills",
+	x: -1.5d,
+	y: 6.0d,
+	text: [
+		"Level up! Reloaded is in the pack. Choose a class and start leveling up your skills."
+	],
+	dependencies: [
+		"5d87502a"
+	],
+	tasks: [{
+		uid: "a976b7de",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "48aae1d1",
+		type: "item",
+		item: "minecraft:leather",
+		count: 10
+	},
+	{
+		uid: "243280c6",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

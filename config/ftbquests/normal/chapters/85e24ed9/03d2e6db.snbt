@@ -1,0 +1,20 @@
+{
+	x: -5.0d,
+	y: -0.5d,
+	text: [
+		"The best way to find biomes."
+	],
+	tasks: [{
+		uid: "31e1024a",
+		type: "item",
+		items: [{
+			id: "naturescompass:naturescompass",
+			tag: {}
+		}]
+	}],
+	rewards: [{
+		uid: "75f7e631",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,53 @@
+{
+	x: -8.0d,
+	y: 2.5d,
+	text: [
+		"Tool that can harvest a ton of blocks at once."
+	],
+	dependencies: [
+		"d3dff57f"
+	],
+	tasks: [{
+		uid: "6128b142",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:tool_harvest_crops"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5f9bb66b",
+		type: "item",
+		item: "minecraft:potato",
+		count: 16
+	},
+	{
+		uid: "0260c24e",
+		type: "item",
+		item: "minecraft:carrot",
+		count: 16
+	},
+	{
+		uid: "80ca09ad",
+		type: "item",
+		item: "minecraft:beetroot_seeds",
+		count: 16
+	},
+	{
+		uid: "3b7a90bf",
+		type: "item",
+		item: "minecraft:wheat_seeds",
+		count: 16
+	},
+	{
+		uid: "13bc6022",
+		type: "item",
+		item: "actuallyadditions:block_giant_chest_medium"
+	},
+	{
+		uid: "04286b28",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

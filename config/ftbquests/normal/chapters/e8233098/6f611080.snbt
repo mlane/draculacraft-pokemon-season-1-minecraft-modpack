@@ -1,0 +1,22 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "9a19c7cf",
+		type: "item",
+		items: [{
+			item: "pixelmon_gui_blocks:medicine_vendor_block"
+		}]
+	}],
+	rewards: [{
+		uid: "faaaaf5b",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "1879d42a",
+		type: "item",
+		item: "pixelmon:protein",
+		count: 16
+	}]
+}

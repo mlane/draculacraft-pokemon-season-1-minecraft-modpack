@@ -1,0 +1,24 @@
+{
+	x: -5.0d,
+	y: 1.0d,
+	text: [
+		"Handy for storing items when your on the go."
+	],
+	dependencies: [
+		"03d2e6db"
+	],
+	tasks: [{
+		uid: "87218163",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:sack_ender"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f340367d",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	}]
+}

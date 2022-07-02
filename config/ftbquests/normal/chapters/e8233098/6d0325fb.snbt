@@ -1,0 +1,61 @@
+{
+	title: "Eeveelution",
+	x: 0.0d,
+	y: -1.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"7a3abff0"
+	],
+	tasks: [{
+		uid: "52cb8aa6",
+		type: "item",
+		items: [{
+			id: "tcg:card",
+			tag: {
+				CardID: 153
+			}
+		}]
+	},
+	{
+		uid: "d82095b5",
+		type: "item",
+		items: [{
+			id: "tcg:card",
+			tag: {
+				CardID: 105
+			}
+		}]
+	},
+	{
+		uid: "1d379366",
+		type: "item",
+		items: [{
+			id: "tcg:card",
+			tag: {
+				CardID: 106
+			}
+		}]
+	},
+	{
+		uid: "9482e2a9",
+		type: "item",
+		items: [{
+			id: "tcg:card",
+			tag: {
+				CardID: 114
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "9a67b888",
+		type: "item",
+		item: "pixelmon:lure_normal_strong"
+	},
+	{
+		uid: "aecb7cb7",
+		type: "item",
+		item: "pixelmon:lure_electric_strong"
+	}]
+}

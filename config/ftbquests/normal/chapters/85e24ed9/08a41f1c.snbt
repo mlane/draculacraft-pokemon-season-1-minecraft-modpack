@@ -1,0 +1,65 @@
+{
+	title: "Storage Upgrades",
+	x: -3.5d,
+	y: 2.5d,
+	text: [
+		"Storage upgrades are used to increase the storage of your backpack. Note: shifting your backpack will reveal the next upgrade (e.g. Wooden, Stone, Iron, Gold, Diamond)."
+	],
+	dependencies: [
+		"d8acdc2c"
+	],
+	tasks: [{
+		uid: "488e96eb",
+		type: "item",
+		items: [{
+			item: "improvedbackpacks:upgrade 1 4"
+		}]
+	},
+	{
+		uid: "41e0aac6",
+		type: "item",
+		icon: "improvedbackpacks:upgrade 1 3",
+		items: [{
+			item: "improvedbackpacks:upgrade"
+		}]
+	},
+	{
+		uid: "6e762262",
+		type: "item",
+		icon: "improvedbackpacks:upgrade 1 2",
+		items: [{
+			item: "improvedbackpacks:upgrade 1 1"
+		}]
+	},
+	{
+		uid: "a9f7792a",
+		type: "item",
+		icon: "improvedbackpacks:upgrade 1 1",
+		items: [{
+			item: "improvedbackpacks:upgrade"
+		}]
+	},
+	{
+		uid: "30f3a7f7",
+		type: "item",
+		items: [{
+			item: "improvedbackpacks:upgrade"
+		}]
+	}],
+	rewards: [{
+		uid: "a955e7c9",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "674b1e4c",
+		type: "item",
+		item: "pixelmon:mach_bike"
+	},
+	{
+		uid: "8a830887",
+		type: "item",
+		item: "harvestcraft:baconandeggsitem",
+		count: 16
+	}]
+}

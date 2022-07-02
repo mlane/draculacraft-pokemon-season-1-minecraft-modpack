@@ -1,0 +1,21 @@
+{
+	x: 4.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "9539d48e",
+		type: "item",
+		items: [{
+			item: "pixelmon:lure_casing_strong"
+		}]
+	}],
+	rewards: [{
+		uid: "ba496b71",
+		type: "item",
+		item: "pixelmon:lure_casing_strong"
+	},
+	{
+		uid: "0264ae93",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

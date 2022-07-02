@@ -1,0 +1,61 @@
+{
+	title: "Legendaries",
+	x: -1.5d,
+	y: -1.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"7a3abff0"
+	],
+	tasks: [{
+		uid: "fc9a6517",
+		type: "item",
+		items: [{
+			id: "tcg:card",
+			tag: {
+				CardID: 181
+			}
+		}]
+	},
+	{
+		uid: "e817c7d7",
+		type: "item",
+		items: [{
+			id: "tcg:card",
+			tag: {
+				CardID: 178
+			}
+		}]
+	},
+	{
+		uid: "63733398",
+		type: "item",
+		items: [{
+			id: "tcg:card",
+			tag: {
+				CardID: 168
+			}
+		}]
+	},
+	{
+		uid: "82ced333",
+		type: "item",
+		items: [{
+			id: "tcg:card",
+			tag: {
+				CardID: 10
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "f1dae061",
+		type: "item",
+		item: "pixelmon:lure_psychic_strong"
+	},
+	{
+		uid: "d0d58b16",
+		type: "item",
+		item: "pixelmon:lure_fairy_strong"
+	}]
+}

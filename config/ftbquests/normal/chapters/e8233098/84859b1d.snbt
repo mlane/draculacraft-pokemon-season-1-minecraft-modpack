@@ -1,0 +1,18 @@
+{
+	x: 1.5d,
+	y: -4.5d,
+	tasks: [{
+		uid: "121cfb50",
+		type: "item",
+		items: [{
+			item: "pixelmon:poke_ball"
+		}],
+		count: 64L,
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "9c1203a8",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

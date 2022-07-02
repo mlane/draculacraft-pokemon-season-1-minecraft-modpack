@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: -4.5d,
+	tasks: [{
+		uid: "3d822ef5",
+		type: "item",
+		items: [{
+			item: "pixelmon:safari_ball"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "38ec6466",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

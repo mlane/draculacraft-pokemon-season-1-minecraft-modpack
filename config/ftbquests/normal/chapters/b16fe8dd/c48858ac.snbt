@@ -1,0 +1,19 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	text: [
+		"A block used to grow small saplings (e.g. Apricorn, Oak, Hazelnut). It only requires soil/sapling and can be harvested with an axe."
+	],
+	tasks: [{
+		uid: "a65062d2",
+		type: "item",
+		items: [{
+			item: "bonsaitrees:bonsaipot"
+		}]
+	}],
+	rewards: [{
+		uid: "85b7694c",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

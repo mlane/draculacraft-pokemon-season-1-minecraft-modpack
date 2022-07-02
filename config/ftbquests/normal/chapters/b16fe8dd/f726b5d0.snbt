@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	dependencies: [
+		"ab173f4b"
+	],
+	tasks: [{
+		uid: "1421ac21",
+		type: "item",
+		items: [{
+			item: "roost:roost"
+		}]
+	}]
+}

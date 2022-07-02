@@ -1,0 +1,137 @@
+{
+	title: "Plates",
+	x: 6.0d,
+	y: 1.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "6d803112",
+		type: "item",
+		items: [{
+			item: "pixelmon:meadow_plate"
+		}]
+	},
+	{
+		uid: "31c6d9cf",
+		type: "item",
+		items: [{
+			item: "pixelmon:flame_plate"
+		}]
+	},
+	{
+		uid: "f440cf42",
+		type: "item",
+		items: [{
+			item: "pixelmon:splash_plate"
+		}]
+	},
+	{
+		uid: "0f52d2da",
+		type: "item",
+		items: [{
+			item: "pixelmon:sky_plate"
+		}]
+	},
+	{
+		uid: "ca618de4",
+		type: "item",
+		items: [{
+			item: "pixelmon:insect_plate"
+		}]
+	},
+	{
+		uid: "d260565a",
+		type: "item",
+		items: [{
+			item: "pixelmon:toxic_plate"
+		}]
+	},
+	{
+		uid: "5e7709ac",
+		type: "item",
+		items: [{
+			item: "pixelmon:zap_plate"
+		}]
+	},
+	{
+		uid: "11b2676f",
+		type: "item",
+		items: [{
+			item: "pixelmon:mind_plate"
+		}]
+	},
+	{
+		uid: "82b7cbd7",
+		type: "item",
+		items: [{
+			item: "pixelmon:stone_plate"
+		}]
+	},
+	{
+		uid: "227fede5",
+		type: "item",
+		items: [{
+			item: "pixelmon:earth_plate"
+		}]
+	},
+	{
+		uid: "502d2683",
+		type: "item",
+		items: [{
+			item: "pixelmon:dread_plate"
+		}]
+	},
+	{
+		uid: "83fce7c2",
+		type: "item",
+		items: [{
+			item: "pixelmon:spooky_plate"
+		}]
+	},
+	{
+		uid: "f3052550",
+		type: "item",
+		items: [{
+			item: "pixelmon:iron_plate"
+		}]
+	},
+	{
+		uid: "cbcb3a36",
+		type: "item",
+		items: [{
+			item: "pixelmon:fist_plate"
+		}]
+	},
+	{
+		uid: "7e20804e",
+		type: "item",
+		items: [{
+			item: "pixelmon:icicle_plate"
+		}]
+	},
+	{
+		uid: "7605ab4f",
+		type: "item",
+		items: [{
+			item: "pixelmon:draco_plate"
+		}]
+	},
+	{
+		uid: "0f34827e",
+		type: "item",
+		items: [{
+			item: "pixelmon:pixie_plate"
+		}]
+	}],
+	rewards: [{
+		uid: "2a9005d2",
+		type: "ftbmoney:money",
+		ftb_money: 20000L
+	},
+	{
+		uid: "ddb1bb20",
+		type: "item",
+		item: "pixelmon:gold_bottle_cap"
+	}]
+}

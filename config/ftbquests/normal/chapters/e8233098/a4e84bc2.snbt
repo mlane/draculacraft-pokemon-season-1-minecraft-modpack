@@ -1,0 +1,88 @@
+{
+	title: "Stones",
+	x: 6.0d,
+	y: 6.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "9f2a595a",
+		type: "item",
+		items: [{
+			item: "pixelmon:fire_stone"
+		}]
+	},
+	{
+		uid: "959971db",
+		type: "item",
+		items: [{
+			item: "pixelmon:water_stone"
+		}]
+	},
+	{
+		uid: "a38e773c",
+		type: "item",
+		items: [{
+			item: "pixelmon:moon_stone"
+		}]
+	},
+	{
+		uid: "efa5ec56",
+		type: "item",
+		items: [{
+			item: "pixelmon:thunder_stone"
+		}]
+	},
+	{
+		uid: "c5d098ae",
+		type: "item",
+		items: [{
+			item: "pixelmon:leaf_stone"
+		}]
+	},
+	{
+		uid: "041b778c",
+		type: "item",
+		items: [{
+			item: "pixelmon:sun_stone"
+		}]
+	},
+	{
+		uid: "65981a6c",
+		type: "item",
+		items: [{
+			item: "pixelmon:dawn_stone"
+		}]
+	},
+	{
+		uid: "fb3bf827",
+		type: "item",
+		items: [{
+			item: "pixelmon:dusk_stone"
+		}]
+	},
+	{
+		uid: "c851c21e",
+		type: "item",
+		items: [{
+			item: "pixelmon:shiny_stone"
+		}]
+	},
+	{
+		uid: "10d497c8",
+		type: "item",
+		items: [{
+			item: "pixelmon:ice_stone"
+		}]
+	}],
+	rewards: [{
+		uid: "9ede7a2b",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	},
+	{
+		uid: "51e4a62f",
+		type: "item",
+		item: "pixelmon:tidal_bell"
+	}]
+}

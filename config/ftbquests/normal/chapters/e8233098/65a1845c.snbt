@@ -1,0 +1,71 @@
+{
+	title: "Bottle Caps",
+	x: -3.0d,
+	y: 6.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "f32397d2",
+		type: "item",
+		items: [{
+			item: "pixelmon:silver_bottle_cap"
+		}]
+	},
+	{
+		uid: "ff1faa4a",
+		type: "item",
+		items: [{
+			item: "pixelmon:gold_bottle_cap"
+		}]
+	}],
+	rewards: [{
+		uid: "ddaee97a",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "6cb09bec",
+		type: "item",
+		item: {
+			id: "tcg:pack",
+			tag: {
+				SetID: 2,
+				Weight: 0.5f
+			}
+		}
+	},
+	{
+		uid: "7c11454e",
+		type: "item",
+		item: {
+			id: "tcg:pack",
+			tag: {
+				SetID: 4,
+				Weight: 0.5f
+			}
+		}
+	},
+	{
+		uid: "08ce07ea",
+		type: "item",
+		item: {
+			id: "tcg:pack",
+			tag: {
+				SetID: 3,
+				Weight: 0.5f
+			}
+		}
+	},
+	{
+		uid: "233f5075",
+		type: "item",
+		item: {
+			id: "tcg:pack",
+			tag: {
+				SetID: 1,
+				Weight: 0.5f
+			}
+		}
+	}]
+}

@@ -1,7 +1,7 @@
 {
-	title: "General",
-	icon: "minecraft:planks",
+	title: "Introduction",
+	icon: "minecraft:writable_book",
 	always_invisible: false,
 	group: 0,
-	default_quest_shape: "circle"
+	default_quest_shape: "gear"
 }

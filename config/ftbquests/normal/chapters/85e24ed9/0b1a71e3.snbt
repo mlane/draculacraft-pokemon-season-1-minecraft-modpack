@@ -1,0 +1,29 @@
+{
+	x: -6.5d,
+	y: 4.0d,
+	text: [
+		"A bauble that gives you flight."
+	],
+	dependencies: [
+		"33dbb294"
+	],
+	tasks: [{
+		uid: "482b4330",
+		type: "item",
+		items: [{
+			item: "baublelicious:itemringofflight"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "040ae4eb",
+		type: "xp",
+		xp: 500
+	},
+	{
+		uid: "faa7d9a2",
+		type: "item",
+		item: "waystones:waystone"
+	}]
+}

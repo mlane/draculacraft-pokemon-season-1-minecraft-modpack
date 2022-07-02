@@ -1,0 +1,26 @@
+{
+	title: "Fast Mining",
+	x: -0.5d,
+	y: 6.0d,
+	text: [
+		"Ore Excavation is in the pack to make it easier for you to harvest resources (e.g. stone, wood, dirt) in bulk. Note: make sure to keep a close eye at your hunger bar while excavating so you don't starve."
+	],
+	dependencies: [
+		"5d87502a"
+	],
+	tasks: [{
+		uid: "e8539d66",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "faaafea1",
+		type: "item",
+		item: "harvestcraft:hamburgeritem",
+		count: 32
+	},
+	{
+		uid: "25d8659a",
+		type: "item",
+		item: "minecraft:stone_pickaxe"
+	}]
+}

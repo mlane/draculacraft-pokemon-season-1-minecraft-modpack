@@ -1,0 +1,22 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	text: [
+		"The upgraded version of the bonsai pot. It functions the same way, except it will automatically harvest on it's own. It can be place on any inventory (e.g. chest, crate, drawer controller)."
+	],
+	dependencies: [
+		"c48858ac"
+	],
+	tasks: [{
+		uid: "0e317894",
+		type: "item",
+		items: [{
+			item: "bonsaitrees:bonsaipot 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "d7eaa97d",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

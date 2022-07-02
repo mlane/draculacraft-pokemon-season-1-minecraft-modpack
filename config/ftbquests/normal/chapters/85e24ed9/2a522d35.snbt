@@ -1,0 +1,28 @@
+{
+	x: 1.0d,
+	y: 2.5d,
+	text: [
+		"To enter Ultra Space, a player must either find a naturally spawned Ultra Wormhole or obtain the Pokémon Arceus, Solgaleo, Lunala, Necrozma, or Palkia. "
+	],
+	tasks: [{
+		uid: "bf0ef952",
+		type: "dimension",
+		dim: 72
+	}],
+	rewards: [{
+		uid: "a760d220",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "63db24ef",
+		type: "item",
+		item: "pixelmon:beast_ball",
+		count: 5
+	},
+	{
+		uid: "155235f6",
+		type: "item",
+		item: "waystones:waystone"
+	}]
+}

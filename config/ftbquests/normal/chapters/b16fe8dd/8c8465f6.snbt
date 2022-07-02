@@ -1,0 +1,23 @@
+{
+	x: 4.5d,
+	y: 6.0d,
+	text: [
+		"Dimensional storage chest typically used to move items from one place to another. You can dye these if you want to have several dimensional storage chests going to different places (e.g. farming, mining, chickens)."
+	],
+	dependencies: [
+		"5bc32b9d"
+	],
+	tasks: [{
+		uid: "b6554003",
+		type: "item",
+		items: [{
+			item: "enderstorage:ender_storage"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "46c1fad9",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}

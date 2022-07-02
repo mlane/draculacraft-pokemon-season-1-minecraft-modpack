@@ -1,0 +1,22 @@
+{
+	x: -1.5d,
+	y: 6.0d,
+	text: [
+		"Cable which can take items out of a connected inventory (e.g. chest, crate, drawer) and move them somewhere else (e.g. chest, crate, drawer)."
+	],
+	dependencies: [
+		"092bed99"
+	],
+	tasks: [{
+		uid: "268ccb8d",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:item_pump"
+		}]
+	}],
+	rewards: [{
+		uid: "076fa767",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

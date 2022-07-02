@@ -1,0 +1,19 @@
+{
+	x: -1.5d,
+	y: 4.5d,
+	text: [
+		"Simple cable for transporting items."
+	],
+	tasks: [{
+		uid: "2b738556",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:item_pipe"
+		}]
+	}],
+	rewards: [{
+		uid: "ca650845",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

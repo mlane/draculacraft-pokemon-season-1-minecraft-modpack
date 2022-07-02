@@ -1,0 +1,49 @@
+{
+	title: "Prepare for Trouble",
+	x: -3.0d,
+	y: 3.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "e2ffaa72",
+		type: "item",
+		items: [{
+			item: "pixelmon:rocket_helm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "01e30745",
+		type: "item",
+		items: [{
+			item: "pixelmon:rocket_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "cb51c2d0",
+		type: "item",
+		items: [{
+			item: "pixelmon:rocket_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "76ccdde1",
+		type: "item",
+		items: [{
+			item: "pixelmon:rocket_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ed049451",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

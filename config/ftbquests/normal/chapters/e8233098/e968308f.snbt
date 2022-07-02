@@ -1,0 +1,51 @@
+{
+	title: "Dark Pokemon",
+	x: -3.0d,
+	y: -1.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"7a3abff0"
+	],
+	tasks: [{
+		uid: "03474694",
+		type: "item",
+		items: [{
+			id: "tcg:card",
+			tag: {
+				CardID: 241
+			}
+		}]
+	},
+	{
+		uid: "b0eab719",
+		type: "item",
+		items: [{
+			id: "tcg:card",
+			tag: {
+				CardID: 242
+			}
+		}]
+	},
+	{
+		uid: "d8ebb855",
+		type: "item",
+		items: [{
+			id: "tcg:card",
+			tag: {
+				CardID: 260
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "0fe1f33d",
+		type: "item",
+		item: "pixelmon:lure_dark_strong"
+	},
+	{
+		uid: "95333c71",
+		type: "item",
+		item: "pixelmon:lure_ghost_strong"
+	}]
+}

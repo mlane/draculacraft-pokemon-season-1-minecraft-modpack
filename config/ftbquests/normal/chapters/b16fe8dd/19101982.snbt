@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: 7.5d,
+	dependencies: [
+		"09b0b2e0"
+	],
+	tasks: [{
+		uid: "93a532fa",
+		type: "item",
+		items: [{
+			item: "storagedrawers:drawer_key"
+		}]
+	}],
+	rewards: [{
+		uid: "d332daf5",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -9.5d,
+	y: 4.0d,
+	text: [
+		"Useful for traveling long distances."
+	],
+	tasks: [{
+		uid: "6e3e7337",
+		type: "item",
+		items: [{
+			item: "waystones:waystone"
+		}]
+	}],
+	rewards: [{
+		uid: "4496c1fe",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	}]
+}

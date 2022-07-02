@@ -1,0 +1,39 @@
+{
+	x: 7.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "f0f40926",
+		type: "item",
+		items: [{
+			item: "tp:cobblegen_block"
+		}]
+	},
+	{
+		uid: "8a7419e1",
+		type: "item",
+		items: [{
+			item: "tp:iron_cobblegen_block"
+		}]
+	},
+	{
+		uid: "2a37018e",
+		type: "item",
+		items: [{
+			item: "tp:diamond_cobblegen_block"
+		}]
+	},
+	{
+		uid: "4001c66e",
+		type: "item",
+		items: [{
+			item: "tp:blaze_cobblegen_block"
+		}]
+	},
+	{
+		uid: "b1e5f9d2",
+		type: "item",
+		items: [{
+			item: "tp:emerald_cobblegen_block"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -1.5d,
+	y: -9.0d,
+	tasks: [{
+		uid: "b3d571fa",
+		type: "item",
+		items: [{
+			item: "pixelmon:dive_ball"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "e8aacf70",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

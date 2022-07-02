@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "55d42a39",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_coal_generator"
+		}]
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: -1.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "ac1806b5",
+		type: "item",
+		items: [{
+			item: "pixelmon:mach_bike"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "de27a4a8",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

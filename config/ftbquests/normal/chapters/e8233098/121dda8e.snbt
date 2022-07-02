@@ -1,0 +1,18 @@
+{
+	icon: "pixelmon:friend_ball",
+	x: 0.0d,
+	y: -7.5d,
+	tasks: [{
+		uid: "e0e78cf4",
+		type: "item",
+		items: [{
+			item: "pixelmon:net_ball"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "b2346d91",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

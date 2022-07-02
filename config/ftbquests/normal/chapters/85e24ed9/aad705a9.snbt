@@ -1,0 +1,33 @@
+{
+	x: -5.0d,
+	y: 4.0d,
+	text: [
+		"Useful for capturing non-pokemon mobs."
+	],
+	dependencies: [
+		"45162cb7"
+	],
+	tasks: [{
+		uid: "4e488455",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:magic_net"
+		}]
+	}],
+	rewards: [{
+		uid: "758aedc5",
+		type: "item",
+		item: "pixelmon:great_ball",
+		count: 5
+	},
+	{
+		uid: "20ff4370",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "4395137c",
+		type: "item",
+		item: "pixelmon:lure_shiny_strong"
+	}]
+}

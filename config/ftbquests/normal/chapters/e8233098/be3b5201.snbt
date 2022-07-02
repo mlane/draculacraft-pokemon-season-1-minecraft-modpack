@@ -1,0 +1,17 @@
+{
+	x: 6.0d,
+	y: -4.5d,
+	tasks: [{
+		uid: "1fbda51d",
+		type: "item",
+		items: [{
+			item: "pixelmon:cherish_ball"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "f2b1918e",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

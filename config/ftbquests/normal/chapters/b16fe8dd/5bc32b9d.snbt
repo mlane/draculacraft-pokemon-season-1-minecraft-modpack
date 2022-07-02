@@ -1,0 +1,19 @@
+{
+	x: 4.5d,
+	y: 4.5d,
+	dependencies: [
+		"ae94cdfd"
+	],
+	tasks: [{
+		uid: "951329c3",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "adb8430b",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

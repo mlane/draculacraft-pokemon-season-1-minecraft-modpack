@@ -1,0 +1,21 @@
+{
+	x: -0.5d,
+	y: -0.5d,
+	text: [
+		"A book for storing all your books."
+	],
+	tasks: [{
+		uid: "eb4dc433",
+		type: "item",
+		items: [{
+			item: "akashictome:tome"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e0ecea44",
+		type: "xp",
+		xp: 100
+	}]
+}

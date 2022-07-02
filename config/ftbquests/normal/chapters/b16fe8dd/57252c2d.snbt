@@ -1,0 +1,22 @@
+{
+	x: 6.0d,
+	y: 1.5d,
+	text: [
+		"Needed to create your storage network and must be connected to the storage request table and storage cables."
+	],
+	dependencies: [
+		"c9dc8ebf"
+	],
+	tasks: [{
+		uid: "bace26c4",
+		type: "item",
+		items: [{
+			item: "storagenetwork:master"
+		}]
+	}],
+	rewards: [{
+		uid: "ae7d3049",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

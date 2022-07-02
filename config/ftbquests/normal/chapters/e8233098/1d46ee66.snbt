@@ -1,0 +1,22 @@
+{
+	x: 4.5d,
+	y: 6.0d,
+	dependencies: [
+		"c405f949"
+	],
+	tasks: [{
+		uid: "0b70e73a",
+		type: "item",
+		items: [{
+			item: "pixelmon:lure_shiny_strong"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3d42390c",
+		type: "item",
+		item: "pixelmon:starf_berry",
+		count: 16
+	}]
+}

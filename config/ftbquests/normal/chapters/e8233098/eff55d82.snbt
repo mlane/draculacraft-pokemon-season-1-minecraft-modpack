@@ -1,0 +1,145 @@
+{
+	title: "Fossils",
+	x: 1.5d,
+	y: 6.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"b1de5a6a"
+	],
+	tasks: [{
+		uid: "9974cc29",
+		type: "item",
+		items: [{
+			item: "pixelmon:helix_fossil"
+		}]
+	},
+	{
+		uid: "bf126cc1",
+		type: "item",
+		items: [{
+			item: "pixelmon:dome_fossil"
+		}]
+	},
+	{
+		uid: "3fe42597",
+		type: "item",
+		items: [{
+			item: "pixelmon:root_fossil"
+		}]
+	},
+	{
+		uid: "a64b61c2",
+		type: "item",
+		items: [{
+			item: "pixelmon:claw_fossil"
+		}]
+	},
+	{
+		uid: "569a57c0",
+		type: "item",
+		items: [{
+			item: "pixelmon:skull_fossil"
+		}]
+	},
+	{
+		uid: "560423ad",
+		type: "item",
+		items: [{
+			item: "pixelmon:armor_fossil"
+		}]
+	},
+	{
+		uid: "01faddef",
+		type: "item",
+		items: [{
+			item: "pixelmon:cover_fossil"
+		}]
+	},
+	{
+		uid: "d8b1481e",
+		type: "item",
+		items: [{
+			item: "pixelmon:plume_fossil"
+		}]
+	},
+	{
+		uid: "01cfb19a",
+		type: "item",
+		items: [{
+			item: "pixelmon:jaw_fossil"
+		}]
+	},
+	{
+		uid: "8f1aef5f",
+		type: "item",
+		items: [{
+			item: "pixelmon:sail_fossil"
+		}]
+	},
+	{
+		uid: "17dfae4e",
+		type: "item",
+		items: [{
+			item: "pixelmon:bird_fossil"
+		}]
+	},
+	{
+		uid: "6d0f67e7",
+		type: "item",
+		items: [{
+			item: "pixelmon:dino_fossil"
+		}]
+	},
+	{
+		uid: "d4c0cbfb",
+		type: "item",
+		items: [{
+			item: "pixelmon:drake_fossil"
+		}]
+	},
+	{
+		uid: "3f973f2a",
+		type: "item",
+		items: [{
+			item: "pixelmon:fish_fossil"
+		}]
+	}],
+	rewards: [{
+		uid: "11416a43",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	},
+	{
+		uid: "12322d79",
+		type: "item",
+		item: "pixelmon:expert_belt"
+	},
+	{
+		uid: "c016d7e8",
+		type: "item",
+		item: "pixelmon:black_belt"
+	},
+	{
+		uid: "990eec8f",
+		type: "item",
+		item: "pixelmon:muscle_band"
+	},
+	{
+		uid: "f7632377",
+		type: "item",
+		item: "pixelmon:focus_band"
+	},
+	{
+		uid: "012cb800",
+		type: "item",
+		item: {
+			id: "tcg:pack",
+			tag: {
+				SetID: 3,
+				Weight: 0.5f
+			}
+		}
+	}]
+}

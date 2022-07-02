@@ -1,0 +1,19 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	dependencies: [
+		"4aa969d3"
+	],
+	tasks: [{
+		uid: "5a0e9b61",
+		type: "item",
+		items: [{
+			item: "pixelmon:cloning_machine"
+		}]
+	}],
+	rewards: [{
+		uid: "bf2f0ba8",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "182eb812",
+		type: "item",
+		items: [{
+			item: "roost:breeder"
+		}]
+	}]
+}

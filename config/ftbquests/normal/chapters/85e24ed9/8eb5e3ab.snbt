@@ -1,0 +1,45 @@
+{
+	x: -9.5d,
+	y: 2.5d,
+	text: [
+		"Right click a chicken to turn it into an item. Useful when you start roost/chicken breeding."
+	],
+	tasks: [{
+		uid: "193be397",
+		type: "item",
+		items: [{
+			item: "roost:catcher"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4757d5aa",
+		type: "item",
+		item: "minecraft:dye 1 2",
+		count: 16
+	},
+	{
+		uid: "2c5c3336",
+		type: "item",
+		item: "minecraft:dye 1 1",
+		count: 16
+	},
+	{
+		uid: "01951017",
+		type: "item",
+		item: "minecraft:dye 1 11",
+		count: 16
+	},
+	{
+		uid: "7e187bfa",
+		type: "item",
+		item: "minecraft:dye",
+		count: 16
+	},
+	{
+		uid: "051cb16f",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

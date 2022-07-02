@@ -1,0 +1,22 @@
+{
+	title: "Casings",
+	x: 3.0d,
+	y: -1.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "ff9c2e5a",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_misc 1 9"
+		}]
+	},
+	{
+		uid: "b0431f87",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_misc 1 4"
+		}]
+	}]
+}

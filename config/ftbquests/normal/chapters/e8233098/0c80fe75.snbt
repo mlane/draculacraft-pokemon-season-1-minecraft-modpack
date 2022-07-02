@@ -1,0 +1,22 @@
+{
+	x: 4.5d,
+	y: 1.5d,
+	dependencies: [
+		"b06714f4"
+	],
+	tasks: [{
+		uid: "66fb3ccf",
+		type: "item",
+		items: [{
+			item: "pixelmon:lure_shiny_weak"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "019c0b6e",
+		type: "item",
+		item: "pixelmon:salac_berry",
+		count: 16
+	}]
+}

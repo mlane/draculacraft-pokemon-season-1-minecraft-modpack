@@ -1,0 +1,22 @@
+{
+	x: 3.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "a46b6402",
+		type: "item",
+		items: [{
+			item: "pixelmon_gui_blocks:evo_vendor_block"
+		}]
+	}],
+	rewards: [{
+		uid: "ddbaf2a4",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "1ec11fbd",
+		type: "item",
+		item: "pixelmon:zinc",
+		count: 16
+	}]
+}

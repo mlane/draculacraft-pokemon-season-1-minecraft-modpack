@@ -1,0 +1,35 @@
+{
+	x: -6.5d,
+	y: 2.5d,
+	text: [
+		"A bauble for muting soundss"
+	],
+	dependencies: [
+		"cf7f738e"
+	],
+	tasks: [{
+		uid: "19ababd1",
+		type: "item",
+		items: [{
+			item: "supersoundmuffler:sound_muffler_bauble"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "56117608",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	},
+	{
+		uid: "d6af033f",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "d95d570d",
+		type: "item",
+		item: "harvestcraft:cookiesandmilkitem",
+		count: 16
+	}]
+}

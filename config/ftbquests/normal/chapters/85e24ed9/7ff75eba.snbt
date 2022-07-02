@@ -1,0 +1,43 @@
+{
+	x: 1.0d,
+	y: 4.0d,
+	text: [
+		"This dimension can only be accessed by starting 'The Drowned' Pixelmon special quest (from a villager). It's recommended to live near a village and check-in with villagers regularly. "
+	],
+	tasks: [{
+		uid: "677c93cb",
+		type: "dimension",
+		dim: 73
+	}],
+	rewards: [{
+		uid: "edb1e405",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	},
+	{
+		uid: "5ad33026",
+		type: "item",
+		item: "pixelmon:rare_candy",
+		count: 10
+	},
+	{
+		uid: "f011c59c",
+		type: "item",
+		item: "pixelmon:lure_shiny_strong"
+	},
+	{
+		uid: "99b8a29e",
+		type: "item",
+		item: "pixelmon:lure_ha_strong"
+	},
+	{
+		uid: "6bbade85",
+		type: "item",
+		item: "pixelmon:master_ball"
+	},
+	{
+		uid: "fe8fc674",
+		type: "item",
+		item: "waystones:waystone"
+	}]
+}

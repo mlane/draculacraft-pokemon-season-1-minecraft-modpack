@@ -1,0 +1,17 @@
+{
+	x: 4.5d,
+	y: -6.0d,
+	tasks: [{
+		uid: "f091da6b",
+		type: "item",
+		items: [{
+			item: "pixelmon:heal_ball"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "b1e140b2",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

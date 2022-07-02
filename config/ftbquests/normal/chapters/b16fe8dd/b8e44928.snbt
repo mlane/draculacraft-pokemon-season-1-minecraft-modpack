@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 1.5d,
+	dependencies: [
+		"a7452546"
+	],
+	tasks: [{
+		uid: "31db7a23",
+		type: "item",
+		items: [{
+			item: "tp:growth_upgrade"
+		}]
+	}]
+}

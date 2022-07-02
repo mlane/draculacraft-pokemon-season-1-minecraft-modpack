@@ -1,0 +1,27 @@
+{
+	x: -9.5d,
+	y: 5.5d,
+	text: [
+		"Great for finding strong holds. Note: it can be repaired with the powered diamond anvil."
+	],
+	tasks: [{
+		uid: "70183818",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:ender_eye_orb"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6a19ab41",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "61a54b5d",
+		type: "item",
+		item: "minecraft:ender_eye",
+		count: 12
+	}]
+}

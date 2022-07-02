@@ -1,0 +1,22 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "52b4002c",
+		type: "item",
+		items: [{
+			item: "pixelmon_gui_blocks:tm_vendor_block"
+		}]
+	}],
+	rewards: [{
+		uid: "b3f5733d",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "e6cb00b1",
+		type: "item",
+		item: "pixelmon:hp_up",
+		count: 16
+	}]
+}

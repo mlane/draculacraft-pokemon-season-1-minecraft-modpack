@@ -1,0 +1,14 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	text: [
+		"Used to transfer items between inventories a space apart from each other."
+	],
+	tasks: [{
+		uid: "f37bf5b6",
+		type: "item",
+		items: [{
+			item: "translocators:translocator_part"
+		}]
+	}]
+}

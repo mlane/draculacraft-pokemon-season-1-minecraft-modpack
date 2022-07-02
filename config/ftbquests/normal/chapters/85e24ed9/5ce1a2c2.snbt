@@ -1,0 +1,41 @@
+{
+	x: -8.0d,
+	y: 4.0d,
+	text: [
+		"Handly building wand with decent durability."
+	],
+	dependencies: [
+		"3e652f19"
+	],
+	tasks: [{
+		uid: "b05bf912",
+		type: "item",
+		items: [{
+			item: "betterbuilderswands:wanddiamond"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "94193a4b",
+		type: "item",
+		item: "harvestcraft:cornchipsitem",
+		count: 16
+	},
+	{
+		uid: "7c7e284f",
+		type: "item",
+		item: "pixelmon:revive",
+		count: 16
+	},
+	{
+		uid: "3d263550",
+		type: "item",
+		item: "pixelmon:healer"
+	},
+	{
+		uid: "e57020fe",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

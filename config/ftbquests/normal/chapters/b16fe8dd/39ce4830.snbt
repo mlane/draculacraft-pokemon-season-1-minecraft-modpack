@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: -6.0d,
+	dependencies: [
+		"3261475b"
+	],
+	tasks: [{
+		uid: "d127b6a5",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_greenhouse_glass"
+		}]
+	}]
+}
