@@ -13,5 +13,11 @@
 		uid: "f942f6f7",
 		type: "ftbmoney:money",
 		ftb_money: 1000L
+	},
+	{
+		uid: "f5728255",
+		type: "item",
+		item: "pixelmon:pumkin_berry",
+		count: 16
 	}]
 }

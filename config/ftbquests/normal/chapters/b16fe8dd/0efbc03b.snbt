@@ -10,5 +10,16 @@
 		items: [{
 			item: "actuallyadditions:block_furnace_double"
 		}]
+	}],
+	rewards: [{
+		uid: "02c78850",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	},
+	{
+		uid: "2136c362",
+		type: "item",
+		item: "pixelmon:haban_berry",
+		count: 16
 	}]
 }

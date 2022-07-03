@@ -4,6 +4,9 @@
 	text: [
 		"The ultimate watering can."
 	],
+	dependencies: [
+		"20d952a3"
+	],
 	tasks: [{
 		uid: "b221884c",
 		type: "item",

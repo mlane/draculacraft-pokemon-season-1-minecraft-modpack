@@ -15,5 +15,11 @@
 		uid: "662e6fb1",
 		type: "ftbmoney:money",
 		ftb_money: 150L
+	},
+	{
+		uid: "3bf5cabd",
+		type: "item",
+		item: "pixelmon:rawst_berry",
+		count: 16
 	}]
 }

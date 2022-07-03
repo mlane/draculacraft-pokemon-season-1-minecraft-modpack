@@ -18,5 +18,11 @@
 		uid: "076fa767",
 		type: "ftbmoney:money",
 		ftb_money: 100L
+	},
+	{
+		uid: "db6cf392",
+		type: "item",
+		item: "pixelmon:babiri_berry",
+		count: 16
 	}]
 }

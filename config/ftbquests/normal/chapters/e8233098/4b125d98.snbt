@@ -17,5 +17,11 @@
 		uid: "aaabbed6",
 		type: "ftbmoney:money",
 		ftb_money: 100L
+	},
+	{
+		uid: "bc566fad",
+		type: "item",
+		item: "pixelmon:pecha_berry",
+		count: 16
 	}]
 }

@@ -3,7 +3,7 @@
 	x: -1.5d,
 	y: 2.0d,
 	text: [
-		"Example"
+		"The objective is opinionated. Draculacraft wants you to become a Pokemon Master worthy of facing his Elite Four. I (Professor Lane) want you to have fun. The quests are meant to help you along your way through either/both paths. In the end it’s for you decide what objective you’ll take in this new story with us."
 	],
 	dependencies: [
 		"4bfbd1f3"

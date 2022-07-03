@@ -14,5 +14,11 @@
 		uid: "9c1203a8",
 		type: "ftbmoney:money",
 		ftb_money: 1000L
+	},
+	{
+		uid: "b2058dbb",
+		type: "item",
+		item: "pixelmon:sitrus_berry",
+		count: 16
 	}]
 }

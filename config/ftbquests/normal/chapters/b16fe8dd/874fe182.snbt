@@ -18,5 +18,11 @@
 		uid: "555b8a30",
 		type: "ftbmoney:money",
 		ftb_money: 150L
+	},
+	{
+		uid: "8f200cec",
+		type: "item",
+		item: "pixelmon:roseli_berry",
+		count: 16
 	}]
 }

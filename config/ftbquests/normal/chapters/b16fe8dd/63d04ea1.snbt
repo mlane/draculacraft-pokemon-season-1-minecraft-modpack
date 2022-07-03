@@ -1,6 +1,9 @@
 {
 	x: 0.0d,
 	y: 3.0d,
+	text: [
+		""
+	],
 	dependencies: [
 		"f726b5d0"
 	],
@@ -10,5 +13,10 @@
 		items: [{
 			item: "roost:collector"
 		}]
+	}],
+	rewards: [{
+		uid: "f657ee88",
+		type: "ftbmoney:money",
+		ftb_money: 300L
 	}]
 }

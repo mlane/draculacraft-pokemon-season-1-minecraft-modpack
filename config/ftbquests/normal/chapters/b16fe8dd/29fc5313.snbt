@@ -7,5 +7,10 @@
 		items: [{
 			item: "actuallyadditions:block_coal_generator"
 		}]
+	}],
+	rewards: [{
+		uid: "f9e00c0d",
+		type: "ftbmoney:money",
+		ftb_money: 50L
 	}]
 }

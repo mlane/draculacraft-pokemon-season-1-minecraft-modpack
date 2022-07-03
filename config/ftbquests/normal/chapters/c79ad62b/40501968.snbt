@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: 7.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "ba0ccab5",
+		type: "item",
+		items: [{
+			item: "pixelmon:shiny_stone"
+		}]
+	}],
+	rewards: [{
+		uid: "dacb470e",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 6.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "8f4c32bb",
+		type: "item",
+		items: [{
+			item: "pixelmon:leaf_stone"
+		}]
+	}],
+	rewards: [{
+		uid: "bcb08e30",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

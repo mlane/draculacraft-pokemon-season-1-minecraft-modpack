@@ -14,5 +14,10 @@
 		items: [{
 			item: "minecraft:glowstone_dust"
 		}]
+	}],
+	rewards: [{
+		uid: "0187f46f",
+		type: "ftbmoney:money",
+		ftb_money: 100L
 	}]
 }

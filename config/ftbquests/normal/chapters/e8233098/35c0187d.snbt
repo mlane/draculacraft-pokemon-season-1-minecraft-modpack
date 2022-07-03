@@ -13,5 +13,11 @@
 		uid: "5bf1f498",
 		type: "ftbmoney:money",
 		ftb_money: 1000L
+	},
+	{
+		uid: "9fe7b8fb",
+		type: "item",
+		item: "pixelmon:occa_berry",
+		count: 16
 	}]
 }

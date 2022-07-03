@@ -13,5 +13,11 @@
 		uid: "7d64cf64",
 		type: "ftbmoney:money",
 		ftb_money: 1000L
+	},
+	{
+		uid: "ff3ad293",
+		type: "item",
+		item: "pixelmon:figy_berry",
+		count: 16
 	}]
 }

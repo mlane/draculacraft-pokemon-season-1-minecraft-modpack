@@ -18,5 +18,10 @@
 		items: [{
 			item: "actuallyadditions:block_misc 1 4"
 		}]
+	}],
+	rewards: [{
+		uid: "51819ae4",
+		type: "ftbmoney:money",
+		ftb_money: 50L
 	}]
 }

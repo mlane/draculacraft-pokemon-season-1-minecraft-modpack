@@ -1,6 +1,9 @@
 {
 	x: 3.0d,
 	y: 7.5d,
+	text: [
+		"Right-click your drawer controller to lock all drawers."
+	],
 	dependencies: [
 		"09b0b2e0"
 	],
@@ -15,5 +18,16 @@
 		uid: "d332daf5",
 		type: "ftbmoney:money",
 		ftb_money: 300L
+	},
+	{
+		uid: "ed329435",
+		type: "item",
+		item: {
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "oak"
+			}
+		},
+		count: 64
 	}]
 }

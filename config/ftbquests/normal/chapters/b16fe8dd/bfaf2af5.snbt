@@ -11,5 +11,16 @@
 		items: [{
 			item: "actuallyadditions:block_xp_solidifier"
 		}]
+	}],
+	rewards: [{
+		uid: "f67f33f1",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "805ca808",
+		type: "item",
+		item: "pixelmon:shuca_berry",
+		count: 16
 	}]
 }

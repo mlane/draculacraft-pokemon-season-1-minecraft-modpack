@@ -12,5 +12,11 @@
 		uid: "0cf120d5",
 		type: "ftbmoney:money",
 		ftb_money: 50L
+	},
+	{
+		uid: "3f876b57",
+		type: "item",
+		item: "pixelmon:chesto_berry",
+		count: 16
 	}]
 }

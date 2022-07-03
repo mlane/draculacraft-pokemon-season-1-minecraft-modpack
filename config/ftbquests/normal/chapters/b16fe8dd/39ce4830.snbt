@@ -10,5 +10,16 @@
 		items: [{
 			item: "actuallyadditions:block_greenhouse_glass"
 		}]
+	}],
+	rewards: [{
+		uid: "6626595f",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "63408ca3",
+		type: "item",
+		item: "pixelmon:coba_berry",
+		count: 16
 	}]
 }

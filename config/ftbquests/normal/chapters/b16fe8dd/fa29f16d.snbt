@@ -18,5 +18,11 @@
 		uid: "d9dedc69",
 		type: "ftbmoney:money",
 		ftb_money: 150L
+	},
+	{
+		uid: "45385e5a",
+		type: "item",
+		item: "pixelmon:kee_berry",
+		count: 16
 	}]
 }

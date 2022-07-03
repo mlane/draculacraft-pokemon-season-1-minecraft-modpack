@@ -110,7 +110,7 @@
   },
   "morechickens:arditechicken": {
     "Name": "arditeChicken",
-    "Is Enabled": true,
+    "Is Enabled": false,
     "Lay Coefficient": 1.0,
     "Lay Item": "tconstruct:ingots:1",
     "Drop Item": "tconstruct:ingots:1",
@@ -120,7 +120,7 @@
   },
   "morechickens:cobaltchicken": {
     "Name": "cobaltChicken",
-    "Is Enabled": true,
+    "Is Enabled": false,
     "Lay Coefficient": 1.0,
     "Lay Item": "tconstruct:ingots",
     "Drop Item": "tconstruct:ingots",
@@ -130,7 +130,7 @@
   },
   "morechickens:manyullynchicken": {
     "Name": "manyullynChicken",
-    "Is Enabled": true,
+    "Is Enabled": false,
     "Lay Coefficient": 1.0,
     "Lay Item": "tconstruct:ingots:2",
     "Drop Item": "tconstruct:ingots:2",

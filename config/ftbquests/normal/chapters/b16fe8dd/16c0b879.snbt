@@ -59,5 +59,16 @@
 				Strength: 1
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "189017f1",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "1ee295c6",
+		type: "item",
+		item: "pixelmon:maranga_berry",
+		count: 16
 	}]
 }

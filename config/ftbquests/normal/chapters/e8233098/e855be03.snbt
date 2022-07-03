@@ -13,5 +13,11 @@
 		uid: "1910f733",
 		type: "ftbmoney:money",
 		ftb_money: 1000L
+	},
+	{
+		uid: "b460338e",
+		type: "item",
+		item: "pixelmon:wacan_berry",
+		count: 16
 	}]
 }

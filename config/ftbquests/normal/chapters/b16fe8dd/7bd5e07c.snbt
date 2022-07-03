@@ -10,5 +10,10 @@
 		items: [{
 			item: "translocators:translocator_part"
 		}]
+	}],
+	rewards: [{
+		uid: "bf000060",
+		type: "ftbmoney:money",
+		ftb_money: 50L
 	}]
 }

@@ -14,5 +14,11 @@
 		uid: "9c9ad9cd",
 		type: "ftbmoney:money",
 		ftb_money: 1000L
+	},
+	{
+		uid: "be2dfb5e",
+		type: "item",
+		item: "pixelmon:yago_berry",
+		count: 16
 	}]
 }

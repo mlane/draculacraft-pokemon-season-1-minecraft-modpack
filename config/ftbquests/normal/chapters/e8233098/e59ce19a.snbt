@@ -13,5 +13,11 @@
 		uid: "e6e9b420",
 		type: "ftbmoney:money",
 		ftb_money: 1000L
+	},
+	{
+		uid: "02311adc",
+		type: "item",
+		item: "pixelmon:rindo_berry",
+		count: 16
 	}]
 }

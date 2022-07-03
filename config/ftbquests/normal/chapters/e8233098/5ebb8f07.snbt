@@ -13,5 +13,11 @@
 		uid: "aba2dbff",
 		type: "ftbmoney:money",
 		ftb_money: 1000L
+	},
+	{
+		uid: "3942977e",
+		type: "item",
+		item: "pixelmon:persim_berry",
+		count: 16
 	}]
 }

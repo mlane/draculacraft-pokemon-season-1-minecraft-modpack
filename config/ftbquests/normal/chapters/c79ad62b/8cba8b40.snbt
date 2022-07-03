@@ -1,0 +1,17 @@
+{
+	x: -1.5d,
+	y: 7.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "76151997",
+		type: "item",
+		items: [{
+			item: "pixelmon:dawn_stone"
+		}]
+	}],
+	rewards: [{
+		uid: "7ded2202",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

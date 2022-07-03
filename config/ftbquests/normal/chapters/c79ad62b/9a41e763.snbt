@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "2b6345aa",
+		type: "item",
+		items: [{
+			item: "pixelmon:fire_stone"
+		}]
+	}],
+	rewards: [{
+		uid: "25104efc",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

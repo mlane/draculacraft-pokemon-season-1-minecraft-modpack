@@ -14,5 +14,16 @@
 		items: [{
 			item: "translocators:diamond_nugget"
 		}]
+	}],
+	rewards: [{
+		uid: "afd938ca",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	},
+	{
+		uid: "c071b184",
+		type: "item",
+		item: "pixelmon:rowap_berry",
+		count: 16
 	}]
 }

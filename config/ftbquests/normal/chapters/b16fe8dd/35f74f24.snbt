@@ -17,5 +17,21 @@
 		items: [{
 			item: "actuallyadditions:block_grinder_double"
 		}]
+	}],
+	rewards: [{
+		uid: "4839d4f8",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	},
+	{
+		uid: "6c978b5a",
+		type: "item",
+		item: "actuallyadditions:block_coal_generator"
+	},
+	{
+		uid: "3c879b0f",
+		type: "item",
+		item: "pixelmon:colbur_berry",
+		count: 16
 	}]
 }

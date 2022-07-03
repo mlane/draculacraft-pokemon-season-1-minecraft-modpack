@@ -13,5 +13,11 @@
 		uid: "fd1b0584",
 		type: "ftbmoney:money",
 		ftb_money: 1000L
+	},
+	{
+		uid: "d4595cd3",
+		type: "item",
+		item: "pixelmon:micle_berry",
+		count: 16
 	}]
 }

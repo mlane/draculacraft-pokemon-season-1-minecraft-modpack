@@ -15,5 +15,10 @@
 		uid: "adb8430b",
 		type: "ftbmoney:money",
 		ftb_money: 200L
+	},
+	{
+		uid: "7f9b6a6b",
+		type: "item",
+		item: "ironchest:wood_iron_chest_upgrade"
 	}]
 }

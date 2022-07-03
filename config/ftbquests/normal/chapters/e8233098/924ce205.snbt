@@ -28,5 +28,11 @@
 				Weight: 0.5f
 			}
 		}
+	},
+	{
+		uid: "82a33dc4",
+		type: "item",
+		item: "pixelmon:cheri_berry",
+		count: 16
 	}]
 }

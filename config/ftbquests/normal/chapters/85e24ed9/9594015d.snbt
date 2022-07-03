@@ -1,0 +1,22 @@
+{
+	x: -0.5d,
+	y: 4.0d,
+	dependencies: [
+		"757bc784"
+	],
+	tasks: [{
+		uid: "78c219aa",
+		type: "item",
+		items: [{
+			item: "levelup2:skillbook"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "472b11a7",
+		type: "item",
+		item: "actuallyadditions:item_solidified_experience",
+		count: 64
+	}]
+}

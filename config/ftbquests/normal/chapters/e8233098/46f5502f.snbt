@@ -15,5 +15,11 @@
 		uid: "771029fc",
 		type: "ftbmoney:money",
 		ftb_money: 200L
+	},
+	{
+		uid: "e83c5df3",
+		type: "item",
+		item: "pixelmon:aspear_berry",
+		count: 16
 	}]
 }

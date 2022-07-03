@@ -13,5 +13,11 @@
 		uid: "b1e140b2",
 		type: "ftbmoney:money",
 		ftb_money: 1000L
+	},
+	{
+		uid: "0128abba",
+		type: "item",
+		item: "pixelmon:iapapa_berry",
+		count: 16
 	}]
 }

@@ -1,6 +1,9 @@
 {
 	x: 3.0d,
 	y: 3.0d,
+	text: [
+		"Used to interact with drawers and other mods (e.g. simple storage mod, item translocator)"
+	],
 	dependencies: [
 		"e65a68f4"
 	],

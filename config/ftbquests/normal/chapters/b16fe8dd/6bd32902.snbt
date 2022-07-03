@@ -10,5 +10,16 @@
 		items: [{
 			item: "actuallyadditions:block_farmer"
 		}]
+	}],
+	rewards: [{
+		uid: "ea3a8c80",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	},
+	{
+		uid: "ac8a8c21",
+		type: "item",
+		item: "pixelmon:charti_berry",
+		count: 16
 	}]
 }

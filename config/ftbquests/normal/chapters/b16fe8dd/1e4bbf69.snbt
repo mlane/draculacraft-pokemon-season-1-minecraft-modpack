@@ -10,5 +10,10 @@
 		items: [{
 			item: "actuallyadditions:block_giant_chest"
 		}]
+	}],
+	rewards: [{
+		uid: "b51b130c",
+		type: "ftbmoney:money",
+		ftb_money: 50L
 	}]
 }

@@ -13,5 +13,11 @@
 		uid: "4d6bad15",
 		type: "ftbmoney:money",
 		ftb_money: 1000L
+	},
+	{
+		uid: "8c60fcaf",
+		type: "item",
+		item: "pixelmon:aguav_berry",
+		count: 16
 	}]
 }

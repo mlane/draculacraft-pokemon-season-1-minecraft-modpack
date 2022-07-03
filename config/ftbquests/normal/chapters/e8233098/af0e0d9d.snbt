@@ -14,5 +14,11 @@
 		uid: "ae4b38b8",
 		type: "ftbmoney:money",
 		ftb_money: 1000L
+	},
+	{
+		uid: "7a3bcf3a",
+		type: "item",
+		item: "pixelmon:lansat_berry",
+		count: 16
 	}]
 }

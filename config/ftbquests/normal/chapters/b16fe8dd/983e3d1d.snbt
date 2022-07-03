@@ -19,5 +19,11 @@
 		uid: "8057c270",
 		type: "ftbmoney:money",
 		ftb_money: 250L
+	},
+	{
+		uid: "6a5893cf",
+		type: "item",
+		item: "pixelmon:chilan_berry",
+		count: 16
 	}]
 }

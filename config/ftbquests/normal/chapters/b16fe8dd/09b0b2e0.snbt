@@ -1,6 +1,9 @@
 {
 	x: 3.0d,
 	y: 6.0d,
+	text: [
+		"Useful if you want to void items once a drawer has reached it's limit. Warning: translocators don't work with drawers with void upgrades."
+	],
 	dependencies: [
 		"10b45a82"
 	],

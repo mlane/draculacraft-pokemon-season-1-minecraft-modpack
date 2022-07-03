@@ -13,5 +13,11 @@
 		uid: "7a9b041d",
 		type: "ftbmoney:money",
 		ftb_money: 1000L
+	},
+	{
+		uid: "c3f11d51",
+		type: "item",
+		item: "pixelmon:drash_berry",
+		count: 16
 	}]
 }

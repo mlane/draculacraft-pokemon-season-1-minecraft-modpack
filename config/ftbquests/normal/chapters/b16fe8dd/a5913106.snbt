@@ -10,5 +10,10 @@
 		items: [{
 			item: "actuallyadditions:block_atomic_reconstructor"
 		}]
+	}],
+	rewards: [{
+		uid: "6ab079af",
+		type: "ftbmoney:money",
+		ftb_money: 100L
 	}]
 }

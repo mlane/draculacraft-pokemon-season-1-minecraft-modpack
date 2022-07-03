@@ -10,5 +10,16 @@
 		items: [{
 			item: "storagedrawers:upgrade_creative"
 		}]
+	}],
+	rewards: [{
+		uid: "54300662",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "184f7a80",
+		type: "item",
+		item: "storagedrawers:compdrawers",
+		count: 64
 	}]
 }

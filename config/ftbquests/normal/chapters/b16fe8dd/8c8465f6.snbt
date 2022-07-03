@@ -19,5 +19,11 @@
 		uid: "46c1fad9",
 		type: "ftbmoney:money",
 		ftb_money: 250L
+	},
+	{
+		uid: "65e5b782",
+		type: "item",
+		item: "pixelmon:jaboca_berry",
+		count: 16
 	}]
 }

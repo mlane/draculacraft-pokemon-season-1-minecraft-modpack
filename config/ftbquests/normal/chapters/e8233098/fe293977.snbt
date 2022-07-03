@@ -133,5 +133,41 @@
 		uid: "ddb1bb20",
 		type: "item",
 		item: "pixelmon:gold_bottle_cap"
+	},
+	{
+		uid: "4c729e62",
+		type: "item",
+		item: "pixelmon:tamato_berry",
+		count: 16
+	},
+	{
+		uid: "f934d361",
+		type: "item",
+		item: "pixelmon:grepa_berry",
+		count: 16
+	},
+	{
+		uid: "a54ad3f9",
+		type: "item",
+		item: "pixelmon:hondew_berry",
+		count: 16
+	},
+	{
+		uid: "470f8d0e",
+		type: "item",
+		item: "pixelmon:qualot_berry",
+		count: 16
+	},
+	{
+		uid: "66b480e4",
+		type: "item",
+		item: "pixelmon:kelpsy_berry",
+		count: 16
+	},
+	{
+		uid: "be6c69d0",
+		type: "item",
+		item: "pixelmon:pomeg_berry",
+		count: 16
 	}]
 }

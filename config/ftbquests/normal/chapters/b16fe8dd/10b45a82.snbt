@@ -1,6 +1,9 @@
 {
 	x: 3.0d,
 	y: 4.5d,
+	text: [
+		"Each drawer can be upgraded seven times."
+	],
 	dependencies: [
 		"a135b226"
 	],

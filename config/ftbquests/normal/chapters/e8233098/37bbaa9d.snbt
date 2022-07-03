@@ -13,5 +13,11 @@
 		uid: "e78b4fcc",
 		type: "ftbmoney:money",
 		ftb_money: 1000L
+	},
+	{
+		uid: "85bffaf9",
+		type: "item",
+		item: "pixelmon:enigma_berry",
+		count: 16
 	}]
 }

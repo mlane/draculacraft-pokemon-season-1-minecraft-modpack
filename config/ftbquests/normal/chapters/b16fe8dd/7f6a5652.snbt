@@ -10,5 +10,16 @@
 		items: [{
 			item: "actuallyadditions:block_giant_chest_medium"
 		}]
+	}],
+	rewards: [{
+		uid: "68f30ec0",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	},
+	{
+		uid: "cb0b0fe1",
+		type: "item",
+		item: "pixelmon:kasib_berry",
+		count: 16
 	}]
 }

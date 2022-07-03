@@ -13,5 +13,11 @@
 		uid: "98b3dae8",
 		type: "ftbmoney:money",
 		ftb_money: 1000L
+	},
+	{
+		uid: "a65dcf77",
+		type: "item",
+		item: "pixelmon:eggant_berry",
+		count: 16
 	}]
 }

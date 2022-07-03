@@ -10,5 +10,16 @@
 		items: [{
 			item: "actuallyadditions:block_giant_chest_large"
 		}]
+	}],
+	rewards: [{
+		uid: "357a7c70",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "5dd45cc8",
+		type: "item",
+		item: "pixelmon:payapa_berry",
+		count: 16
 	}]
 }

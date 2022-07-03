@@ -4,6 +4,9 @@
 	text: [
 		"Ultimate building wand with unlimited durability. Note: use wisely."
 	],
+	dependencies: [
+		"b05bf912"
+	],
 	tasks: [{
 		uid: "61a480fb",
 		type: "item",

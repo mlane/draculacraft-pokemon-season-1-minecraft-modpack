@@ -1,0 +1,33 @@
+{
+	title: "Den",
+	x: -3.0d,
+	y: 7.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "0683735f",
+		type: "item",
+		items: [{
+			item: "pixelmon:wishing_piece"
+		}]
+	},
+	{
+		uid: "6573161a",
+		type: "item",
+		items: [{
+			item: "pixelmon:waterdude_wishing_piece"
+		}]
+	}],
+	rewards: [{
+		uid: "78ee6fed",
+		type: "ftbmoney:money",
+		ftb_money: 10000L
+	},
+	{
+		uid: "d8af0256",
+		type: "item",
+		item: "pixelmon:dynamax_candy",
+		count: 8
+	}]
+}

@@ -13,5 +13,11 @@
 		uid: "3726d5b4",
 		type: "ftbmoney:money",
 		ftb_money: 1000L
+	},
+	{
+		uid: "546f8ce9",
+		type: "item",
+		item: "pixelmon:custap_berry",
+		count: 16
 	}]
 }
