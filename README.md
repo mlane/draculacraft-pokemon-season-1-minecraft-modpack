@@ -30,7 +30,7 @@ Welcome to Draculacraft Pokemon Season 1!!!
 Several Pokemon Trainers have already started season 1 and will be sharing their stories below:
 *   Stay tuned
 
-&nbsp;a
+&nbsp;
 
 ### **Resource Packs:**
 *   [Faithful32 Modded](http://f32.me/)
