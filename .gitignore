@@ -30,6 +30,7 @@ config/MouseTweaks.cfg
 config/jei/worldSettings.cfg
 config/jei/lookupHistory.zip
 config/jei/bookmarks.ini
+config/bettersprinting.cfg
 zs_export.json
 .curseclient
 .ReAuth.cfg
@@ -41,6 +42,7 @@ realms_persistence.json
 WailaErrorOutput.txt
 ItemDump.txt
 BotaniaVars.dat
+options.txt
 pixel.dat
 pixelc.dat
 crafttweaker.log

@@ -1,2 +1,0 @@
-gamma:10.0
-resourcePacks:["F32-1.12.2","Pixelmon\u0027s+faithful+x32"]
