@@ -12,7 +12,8 @@
 		type: "item",
 		items: [{
 			item: "storagedrawers:controller"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "948a3e2d",

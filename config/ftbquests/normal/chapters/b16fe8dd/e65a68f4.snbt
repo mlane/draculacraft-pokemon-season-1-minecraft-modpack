@@ -9,7 +9,8 @@
 		type: "item",
 		items: [{
 			item: "storagedrawers:compdrawers"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "493b7de5",

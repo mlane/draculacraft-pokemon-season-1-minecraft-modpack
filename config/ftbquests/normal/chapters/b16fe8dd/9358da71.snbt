@@ -44,7 +44,12 @@
 	{
 		uid: "42211d32",
 		type: "item",
-		item: "storagedrawers:compdrawers"
+		item: {
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "oak"
+			}
+		}
 	},
 	{
 		uid: "b6e5436e",
