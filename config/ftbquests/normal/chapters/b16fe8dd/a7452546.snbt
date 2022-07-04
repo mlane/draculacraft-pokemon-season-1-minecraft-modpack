@@ -7,5 +7,27 @@
 		items: [{
 			item: "tp:growth_block"
 		}]
+	}],
+	rewards: [{
+		uid: "6eae7718",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "edbdae6d",
+		type: "item",
+		item: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:swiftness"
+			}
+		},
+		count: 16
+	},
+	{
+		uid: "ea0b77b1",
+		type: "item",
+		item: "minecraft:sea_lantern",
+		count: 16
 	}]
 }

@@ -10,5 +10,27 @@
 		items: [{
 			item: "tp:growth_upgrade"
 		}]
+	}],
+	rewards: [{
+		uid: "06036177",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	},
+	{
+		uid: "d920e5cf",
+		type: "item",
+		item: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:long_swiftness"
+			}
+		},
+		count: 16
+	},
+	{
+		uid: "c79b9d17",
+		type: "item",
+		item: "minecraft:nether_star",
+		count: 4
 	}]
 }

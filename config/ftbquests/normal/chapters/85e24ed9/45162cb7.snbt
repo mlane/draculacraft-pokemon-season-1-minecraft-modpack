@@ -9,35 +9,6 @@
 		"e525a2a6"
 	],
 	tasks: [{
-		uid: "a0f2b2cc",
-		type: "item",
-		icon: "minecraft:emerald",
-		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "oreGold",
-					id: "ore"
-				}
-			},
-			id: "itemfilters:filter",
-			tag: {
-				display: {
-					Name: "Any oreGold"
-				}
-			}
-		}],
-		count: 20L
-	},
-	{
-		uid: "c77235a6",
-		type: "item",
-		icon: "minecraft:coal_block",
-		items: [{
-			item: "minecraft:coal"
-		}],
-		count: 20L
-	},
-	{
 		uid: "817d6f70",
 		type: "item",
 		items: [{
@@ -47,12 +18,6 @@
 		ignore_nbt: 1b
 	}],
 	rewards: [{
-		uid: "b7af5f19",
-		type: "item",
-		item: "minecraft:stained_glass_pane 1 5",
-		count: 5
-	},
-	{
 		uid: "2e408db0",
 		type: "ftbmoney:money",
 		ftb_money: 300L

@@ -20,5 +20,11 @@
 		uid: "f340367d",
 		type: "ftbmoney:money",
 		ftb_money: 300L
+	},
+	{
+		uid: "9158470b",
+		type: "item",
+		item: "minecraft:stained_glass_pane 1 5",
+		count: 5
 	}]
 }

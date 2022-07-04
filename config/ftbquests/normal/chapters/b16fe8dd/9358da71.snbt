@@ -35,5 +35,21 @@
 		items: [{
 			item: "tp:emerald_cobblegen_block"
 		}]
+	}],
+	rewards: [{
+		uid: "56f5ceee",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	},
+	{
+		uid: "42211d32",
+		type: "item",
+		item: "storagedrawers:compdrawers"
+	},
+	{
+		uid: "b6e5436e",
+		type: "item",
+		item: "pixelmon:m_exp_candy",
+		count: 64
 	}]
 }

@@ -1,6 +1,6 @@
-# Draculacraft Pixelmon v12 (not ready)
+# Draculacraft Pokemon Season 1
 
-Projected launch: 07/03/2022
+Curseforge: [link](https://www.curseforge.com/minecraft/modpacks/draculacraft-pokemon-season-1)
 
 Will feature 50+ quests with incentives for progressing in Pixelmon with some basic automation (actually additions, chickens, translocators)
 
@@ -9,5 +9,5 @@ Each season you will be presented with a curated list of starter pokemon to make
 This season objectives will be as follows
 - Completing the questline
 - Gotta Catch 'Em All (catch at least 150 (~17% of 898) unique Pokemon)
-- Beating each member of the "Elite Four"???
-- Beating Draculacraft's seasonal team
+- Beating each member of the "Elite Four"??? (season 2)
+- Beating Draculacraft's seasonal team (season 2)
