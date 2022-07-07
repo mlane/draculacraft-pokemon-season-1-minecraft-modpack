@@ -1,0 +1,26 @@
+{
+	x: 6.0d,
+	y: 7.5d,
+	tasks: [{
+		uid: "68f1a6a5",
+		type: "item",
+		items: [{
+			item: "pixelmon:elevator"
+		}]
+	}],
+	rewards: [{
+		uid: "42f00563",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	},
+	{
+		uid: "8eaf8d13",
+		type: "item",
+		item: "pixelmon:elevator"
+	},
+	{
+		uid: "b5716034",
+		type: "item",
+		item: "waystones:waystone"
+	}]
+}
