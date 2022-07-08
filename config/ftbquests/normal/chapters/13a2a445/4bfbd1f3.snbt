@@ -2,7 +2,7 @@
 	x: -1.5d,
 	y: -0.5d,
 	text: [
-		"I, Professor Lane, would like to welcome in behalf of Draculacraft to Draculacraft Pixelmon for 1.12. At the bequest of my dear friend (Draculacraft) have created a modpack that ties several of our favorite mods together to make the best Pokemon experience for Minecraft."
+		"I, Professor Lane, would like to welcome in behalf of Draculacraft to Draculacraft Pokemon Season 1. At the bequest of my dear friend (Draculacraft) I have created a modpack that ties several of our favorite mods together to make the best Pokemon experience for Minecraft."
 	],
 	tasks: [{
 		uid: "40c23b84",
