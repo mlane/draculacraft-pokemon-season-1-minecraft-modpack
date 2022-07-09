@@ -1,3 +1,6 @@
+# Remove and hide recipes
+recipes.remove(<roost:collector>);
+
 # Add recipes
 recipes.addShaped(<roost:chicken>.withTag({Growth: 1, Chicken: "chickens:flintchicken", Gain: 1, Strength: 1}), [
 	[<minecraft:flint>, <minecraft:flint>, <minecraft:flint>],
@@ -23,3 +26,9 @@ recipes.addShaped(<roost:chicken>.withTag({Growth: 1, Chicken: "chickens:whitech
 	[<minecraft:dye:15>, <minecraft:dye:15>, <minecraft:dye:15>],
 	[<minecraft:dye:15>, <minecraft:egg>, <minecraft:dye:15>],
 	[<minecraft:dye:15>, <minecraft:dye:15>, <minecraft:dye:15>]]);
+recipes.addShaped(<roost:collector>, [
+	[<ore:plankWood>, <minecraft:egg>, <ore:plankWood>],
+	[<ore:plankWood>, <minecraft:hopper>, <ore:plankWood>],
+	[<ore:plankWood>, <minecraft:chest>, <ore:plankWood>]]);
+recipes.addShapeless(<roost:chicken>.withTag({Growth: 1, Chicken: "chickens:smartchicken", Gain: 1, Strength: 1}), [<minecraft:egg>, <minecraft:book>]);
+recipes.addShapeless(<roost:chicken>.withTag({Chicken: "minecraft:chicken"}), [<minecraft:egg>, <minecraft:egg>]);
