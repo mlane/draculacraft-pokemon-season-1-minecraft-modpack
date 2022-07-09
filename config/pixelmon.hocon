@@ -615,7 +615,7 @@ Spawning {
     # Chance that a mega boss spawn attempt will succeed (0-1)
     bossSpawnChance=0.30000001192092896
     # Average number of ticks before spawning a boss Pokémon
-    bossSpawnTicks=10000
+    bossSpawnTicks=5000
     # Relative spawn chances of each boss tier.
     bossWeights=[
         16,
@@ -673,7 +673,7 @@ Spawning {
     # Chance that a Legendary spawn attempt will succeed (0-1).
     legendarySpawnChance=0.30000001192092896
     # Average number of ticks before an attempt at Legendary spawning will be made (modified by spawn chance).
-    legendarySpawnTicks=10000
+    legendarySpawnTicks=8000
     # Which types of loot, such as "simple_dungeon", that Pixelmon should not modify.
     lootIgnoreList=[]
     # How long the effects of the Black/White Flute last for in seconds once used.
