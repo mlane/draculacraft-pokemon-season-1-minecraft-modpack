@@ -59,7 +59,7 @@ Battle {
         40
     ]
     # Multiplier for experience gained in Pokémon battles.
-    expModifier=3
+    expModifier=10
     # What will happen if a battle is force-ended without a proper conclusion. 0: A winner is determined based on the number of remaining Pokémon (with % HP as a tiebreaker). 1: The battle is considered a draw. 2: The battle is considered abnormally ended.
     forceEndBattleResult=0
     # Whether G-Max Gold Rush will award extra PokéDollars when used.
@@ -144,7 +144,7 @@ Dimensions {
 # Options for the elevator.
 Elevator {
     # Maximum search range up/down for a pairing elevator.
-    elevatorSearchRange=15
+    elevatorSearchRange=20
 }
 # Settings for enabling External Files
 ExternalFiles {

@@ -12,6 +12,6 @@
 	rewards: [{
 		uid: "dacb470e",
 		type: "ftbmoney:money",
-		ftb_money: 500L
+		ftb_money: 1000L
 	}]
 }
