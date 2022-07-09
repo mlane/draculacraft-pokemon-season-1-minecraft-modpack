@@ -12,7 +12,7 @@
 	rewards: [{
 		uid: "03c23d43",
 		type: "ftbmoney:money",
-		ftb_money: 1000L
+		ftb_money: 80000L
 	},
 	{
 		uid: "3fbf4f85",
