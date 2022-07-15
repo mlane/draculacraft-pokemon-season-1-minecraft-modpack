@@ -4,9 +4,6 @@
 	text: [
 		"A buable that makes climbing alot easier."
 	],
-	dependencies: [
-		"5a0b0057"
-	],
 	tasks: [{
 		uid: "a804e170",
 		type: "item",

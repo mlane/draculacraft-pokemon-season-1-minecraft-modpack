@@ -59,7 +59,7 @@ Battle {
         40
     ]
     # Multiplier for experience gained in Pokémon battles.
-    expModifier=10
+    expModifier=11
     # What will happen if a battle is force-ended without a proper conclusion. 0: A winner is determined based on the number of remaining Pokémon (with % HP as a tiebreaker). 1: The battle is considered a draw. 2: The battle is considered abnormally ended.
     forceEndBattleResult=0
     # Whether G-Max Gold Rush will award extra PokéDollars when used.
@@ -96,7 +96,7 @@ Breeding {
     # Maximum Pokémon a player can have in all ranches across the world. Max of 0 is unlimited.
     maxCumulativePokemonInRanch=0
     # Number of stages to go through before breeding occurs (1-5).
-    numBreedingStages=3
+    numBreedingStages=2
     # Breeding rate modifier that is applied if the Oval Charm is equipped.
     ovalCharmMultiplier=0.5
     # Whether alolan and galarian forms are granted to an egg if they are in a certain dimension.
@@ -701,7 +701,7 @@ Spawning {
     # Replaces Minecraft's villagers with Pixelmon NPCs.
     replaceMCVillagers=true
     # Shiny calculation uses 1/(Shiny rate) to get odds of becoming Shiny.
-    shinySpawnRate=500
+    shinySpawnRate=300
     # The number of spawn passes made per minute. Decrease for better performance.
     spawnFrequency=60
     # Sets spawning of Gyms in close proximity to newly generated towns on or off.

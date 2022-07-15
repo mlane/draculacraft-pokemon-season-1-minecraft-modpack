@@ -4,9 +4,6 @@
 	text: [
 		"A bauble for muting soundss"
 	],
-	dependencies: [
-		"cf7f738e"
-	],
 	tasks: [{
 		uid: "19ababd1",
 		type: "item",

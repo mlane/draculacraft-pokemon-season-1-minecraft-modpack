@@ -4,9 +4,6 @@
 	text: [
 		"A bauble that gives you flight."
 	],
-	dependencies: [
-		"33dbb294"
-	],
 	tasks: [{
 		uid: "482b4330",
 		type: "item",
