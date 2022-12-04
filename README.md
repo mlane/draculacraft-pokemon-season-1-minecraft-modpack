@@ -28,7 +28,6 @@ Welcome to Draculacraft Pokemon Season 1!!!
 
 ### **Season 1 Playthroughs:**
 Several Pokemon Trainers have already started season 1 and will be sharing their stories below:
-*   [Professor Lane's Playthrough](https://www.youtube.com/playlist?list=PLuQYSHROG2XoiPq5hd1rHYRFWYaTX6Jzc "Draculacraft Pokemon Season 1 - Professor Lane's Playthrough")
 *   [Dallin Lane's Playthrough](https://www.youtube.com/playlist?list=PLHLmqNy9y-wnPyZOULOLY6hsYlhvO3gPu "Draculacraft Pokemon Season 1 - Dallin Lane's Playthrough")
 
 &nbsp;
