@@ -19,32 +19,32 @@
 		}]
 	},
 	{
-		uid: "d82095b5",
+		uid: "796f6f9f",
 		type: "item",
 		items: [{
 			id: "tcg:card",
 			tag: {
-				CardID: 105
+				CardID: 121
 			}
 		}]
 	},
 	{
-		uid: "1d379366",
+		uid: "a6108cd8",
 		type: "item",
 		items: [{
 			id: "tcg:card",
 			tag: {
-				CardID: 106
+				CardID: 122
 			}
 		}]
 	},
 	{
-		uid: "9482e2a9",
+		uid: "6ef55e3d",
 		type: "item",
 		items: [{
 			id: "tcg:card",
 			tag: {
-				CardID: 114
+				CardID: 130
 			}
 		}]
 	}],

@@ -9,27 +9,27 @@
 		"7a3abff0"
 	],
 	tasks: [{
-		uid: "03474694",
+		uid: "46ccdecf",
 		type: "item",
 		items: [{
 			id: "tcg:card",
 			tag: {
-				CardID: 241
+				CardID: 258
 			}
 		}]
 	},
 	{
-		uid: "b0eab719",
+		uid: "7cb81507",
 		type: "item",
 		items: [{
 			id: "tcg:card",
 			tag: {
-				CardID: 242
+				CardID: 259
 			}
 		}]
 	},
 	{
-		uid: "d8ebb855",
+		uid: "5125a688",
 		type: "item",
 		items: [{
 			id: "tcg:card",

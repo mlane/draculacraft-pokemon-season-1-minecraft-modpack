@@ -9,42 +9,32 @@
 		"7a3abff0"
 	],
 	tasks: [{
-		uid: "fc9a6517",
+		uid: "d32b9503",
 		type: "item",
 		items: [{
 			id: "tcg:card",
 			tag: {
-				CardID: 181
+				CardID: 193
 			}
 		}]
 	},
 	{
-		uid: "e817c7d7",
+		uid: "5b55ce73",
 		type: "item",
 		items: [{
 			id: "tcg:card",
 			tag: {
-				CardID: 178
+				CardID: 196
 			}
 		}]
 	},
 	{
-		uid: "63733398",
+		uid: "4328ff9e",
 		type: "item",
 		items: [{
 			id: "tcg:card",
 			tag: {
-				CardID: 168
-			}
-		}]
-	},
-	{
-		uid: "82ced333",
-		type: "item",
-		items: [{
-			id: "tcg:card",
-			tag: {
-				CardID: 10
+				CardID: 183
 			}
 		}]
 	}],
